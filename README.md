@@ -125,7 +125,7 @@ UPI-Payments-Behavioral-Intelligence/
 
 ## 🔍 Analysis Performed
 
-### Phase 1 — Exploratory Data Analysis
+### Phase 1 - Exploratory Data Analysis
 - Monthly transaction volume and value trends
 - Platform market share analysis
 - Merchant category deep dive (volume vs value)
@@ -133,7 +133,7 @@ UPI-Payments-Behavioral-Intelligence/
 - User demographic analysis (age group, gender, city tier)
 - Festival vs non-festival spending comparison
 
-### Phase 2 — User Behavioral Segmentation (ML)
+### Phase 2 - User Behavioral Segmentation (ML)
 Built a **36-feature behavioral matrix** per user and applied K-Means clustering to identify 4 distinct user archetypes:
 
 | Segment | Users | Avg Ticket | Daily Spend | Key Trait |
@@ -143,7 +143,7 @@ Built a **36-feature behavioral matrix** per user and applied K-Means clustering
 | Loyal Digital Users | 2,550 | ₹3,007 | ₹197 | High platform loyalty (89.5%) |
 | Casual Small Spenders | 2,584 | ₹2,334 | ₹144 | Low value, food focused |
 
-### Phase 3 — Fraud Signal Detection
+### Phase 3 - Fraud Signal Detection
 Multi-signal fraud scoring system using:
 - **Unusual hour flag** - transactions between 1am-5am
 - **High amount flag** - amount > 4x category average
@@ -156,7 +156,7 @@ Key findings:
 - Rent category has highest fraud rate: **0.297%**
 - Fraud only triggers at **score 2+** with 31.87% conversion rate
 
-### Phase 4 — Advanced SQL Analysis (15 Queries)
+### Phase 4 - Advanced SQL Analysis (15 Queries)
 | Query | Analysis |
 |---|---|
 | Q1 | Executive KPI Summary |
@@ -271,8 +271,8 @@ CREATE DATABASE upi_intelligence;
 ## 👤 Author
 
 **Mohsin Raza | Data Analyst**
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohsinraza-data/)
-- Email: mohsinansari1799@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinraza-data/)
+- [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
 
 ---
 
