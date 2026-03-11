@@ -1,0 +1,2001 @@
+merchant_id,merchant_name,merchant_category,merchant_city,merchant_city_tier,is_active
+MER00001,Gokhale Cab Service,Travel,Chandigarh,Tier3,1
+MER00002,Jayaraman Hotel,Hotel & Lodging,Kanpur,Tier2,1
+MER00003,Misra Railway Booking,Travel,Nashik,Tier2,1
+MER00004,Lata Nykaa,E-commerce,Patna,Tier2,0
+MER00005,Bains Daily Needs,Grocery,Bangalore,Tier1,1
+MER00006,Yadav Railway Booking,Travel,Ahmedabad,Tier1,1
+MER00007,Hayer Restaurant,Food & Beverage,Bangalore,Tier1,1
+MER00008,Ranganathan Uber,Auto & Transport,Visakhapatnam,Tier2,1
+MER00009,Sinha Supermart,Grocery,Coimbatore,Tier2,0
+MER00010,Dhingra Juice Corner,Food & Beverage,Madurai,Tier2,1
+MER00011,Ramakrishnan Uber,Auto & Transport,Mumbai,Tier1,1
+MER00012,Om Rapido,Auto & Transport,Chennai,Tier1,1
+MER00013,Dora Personal Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER00014,Gandhi Dhaba,Food & Beverage,Delhi,Tier1,1
+MER00015,Sinha Supermart,Grocery,Ahmedabad,Tier1,0
+MER00016,Kunda General Store,Grocery,Patna,Tier2,1
+MER00017,Chakrabarti Fuel Station,Fuel,Bhopal,Tier2,1
+MER00018,Mani DTH Services,Utilities,Guwahati,Tier3,1
+MER00019,Saxena Fresh Mart,Grocery,Patna,Tier2,1
+MER00020,Bera Bus Service,Travel,Chennai,Tier1,1
+MER00021,Goda Meesho,E-commerce,Lucknow,Tier2,1
+MER00022,Dyal Medical Store,Healthcare,Allahabad,Tier3,1
+MER00023,Brahmbhatt Gadget Shop,Electronics,Delhi,Tier1,1
+MER00024,Choudhry Uber,Auto & Transport,Jaipur,Tier2,1
+MER00025,Wason Water Supply,Utilities,Delhi,Tier1,1
+MER00026,Narasimhan Inn,Hotel & Lodging,Bareilly,Tier3,1
+MER00027,Garde Zerodha,Investment,Chennai,Tier1,1
+MER00028,Savant Clinic,Healthcare,Jaipur,Tier2,1
+MER00029,Pingle Amazon,E-commerce,Mumbai,Tier1,1
+MER00030,Chauhan Tiffin Center,Food & Beverage,Kolkata,Tier1,1
+MER00031,Boase Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00032,Ramaswamy Juice Corner,Food & Beverage,Lucknow,Tier2,1
+MER00033,Dey Metro Card,Auto & Transport,Moradabad,Tier3,1
+MER00034,Dhawan Uber,Auto & Transport,Patna,Tier2,1
+MER00035,Goel Supermart,Grocery,Coimbatore,Tier2,1
+MER00036,Shenoy Personal Transfer,P2P Transfer,Jaipur,Tier2,1
+MER00037,Srinivas Friend Transfer,P2P Transfer,Nagpur,Tier2,1
+MER00038,Contractor Railway Booking,Travel,Kanpur,Tier2,1
+MER00039,Sabharwal LIC,Insurance,Agra,Tier2,1
+MER00040,Barman Rapido,Auto & Transport,Agra,Tier2,1
+MER00041,Khatri Juice Corner,Food & Beverage,Kolkata,Tier1,1
+MER00042,Nair Garments,Clothing & Fashion,Vadodara,Tier2,1
+MER00043,Palla Mobile Store,Electronics,Delhi,Tier1,1
+MER00044,Warrior OTT Platform,Entertainment,Gorakhpur,Tier3,1
+MER00045,Dugal Rapido,Auto & Transport,Chennai,Tier1,1
+MER00046,Doshi Amazon,E-commerce,Chennai,Tier1,1
+MER00047,Murty Family Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER00048,Dhillon Broadband,Utilities,Chennai,Tier1,1
+MER00049,Bali Daily Needs,Grocery,Hyderabad,Tier1,1
+MER00050,Bawa Juice Corner,Food & Beverage,Agra,Tier2,1
+MER00051,Sami Appliances,Electronics,Surat,Tier2,1
+MER00052,Warrior Snapdeal,E-commerce,Chennai,Tier1,1
+MER00053,Kata Cinema,Entertainment,Ahmedabad,Tier1,1
+MER00054,Sami General Store,Grocery,Ahmedabad,Tier1,1
+MER00055,Kapoor Rapido,Auto & Transport,Moradabad,Tier3,1
+MER00056,Talwar Service Apartment,Hotel & Lodging,Chennai,Tier1,1
+MER00057,Barad Service Apartment,Hotel & Lodging,Hyderabad,Tier1,0
+MER00058,Wagle Snapdeal,E-commerce,Hyderabad,Tier1,1
+MER00059,Mittal Garments,Clothing & Fashion,Tiruchirappalli,Tier3,1
+MER00060,Jain Daily Needs,Grocery,Kanpur,Tier2,1
+MER00061,Khalsa Electric Board,Utilities,Nagpur,Tier2,1
+MER00062,Pau OTT Platform,Entertainment,Delhi,Tier1,1
+MER00063,Wable Kirana Store,Grocery,Madurai,Tier2,1
+MER00064,Raval Daily Needs,Grocery,Chandigarh,Tier3,0
+MER00065,Chauhan Ola,Auto & Transport,Amritsar,Tier3,1
+MER00066,Tara BPCL Outlet,Fuel,Hyderabad,Tier1,1
+MER00067,Karpe Readymade,Clothing & Fashion,Coimbatore,Tier2,1
+MER00068,Buch Broadband,Utilities,Surat,Tier2,1
+MER00069,Mahajan Cinema,Entertainment,Hyderabad,Tier1,1
+MER00070,Sant HP Petrol,Fuel,Chennai,Tier1,1
+MER00071,Tara Hospital,Healthcare,Vadodara,Tier2,1
+MER00072,Saran Uber,Auto & Transport,Moradabad,Tier3,1
+MER00073,Sani Multiplex,Entertainment,Kolkata,Tier1,1
+MER00074,Lad Service Apartment,Hotel & Lodging,Mumbai,Tier1,1
+MER00075,Sarma Pharmacy,Healthcare,Vadodara,Tier2,1
+MER00076,Dalal Cafe,Food & Beverage,Chennai,Tier1,1
+MER00077,Borde Daily Needs,Grocery,Bhopal,Tier2,1
+MER00078,Nazareth Snapdeal,E-commerce,Chandigarh,Tier3,1
+MER00079,Mann College,Education,Surat,Tier2,0
+MER00080,Sarraf Residency,Rent,Kolkata,Tier1,1
+MER00081,Konda Textile,Clothing & Fashion,Delhi,Tier1,0
+MER00082,Chakraborty Personal Transfer,P2P Transfer,Pune,Tier1,1
+MER00083,Ganesh Nykaa,E-commerce,Pune,Tier1,1
+MER00084,Prakash Event,Entertainment,Lucknow,Tier2,1
+MER00085,Chanda Pharmacy,Healthcare,Jodhpur,Tier3,1
+MER00086,Reddy Tiffin Center,Food & Beverage,Ahmedabad,Tier1,1
+MER00087,Grewal Auto Rickshaw,Auto & Transport,Bhopal,Tier2,1
+MER00088,Chad Salon,Salon & Wellness,Kolkata,Tier1,1
+MER00089,Aggarwal Uber,Auto & Transport,Amritsar,Tier3,1
+MER00090,Tank Tiffin Center,Food & Beverage,Ghaziabad,Tier3,1
+MER00091,Ramanathan General Store,Grocery,Hyderabad,Tier1,1
+MER00092,Chaudhry BPCL Outlet,Fuel,Pune,Tier1,1
+MER00093,Pillay Textile,Clothing & Fashion,Kolkata,Tier1,1
+MER00094,Sarna DTH Services,Utilities,Lucknow,Tier2,1
+MER00095,Borah Rapido,Auto & Transport,Delhi,Tier1,1
+MER00096,Ramanathan Hotel,Hotel & Lodging,Kanpur,Tier2,0
+MER00097,Bose Service Apartment,Hotel & Lodging,Nagpur,Tier2,1
+MER00098,Sarna Restaurant,Food & Beverage,Kanpur,Tier2,1
+MER00099,Koshy Mobile Store,Electronics,Delhi,Tier1,1
+MER00100,Bobal Boutique,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00101,Mangal Fashion Store,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00102,Buch Kirana Store,Grocery,Surat,Tier2,1
+MER00103,Contractor Snapdeal,E-commerce,Bangalore,Tier1,1
+MER00104,Dhillon Fashion Store,Clothing & Fashion,Mumbai,Tier1,1
+MER00105,Ahuja Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00106,Mander Nykaa,E-commerce,Ahmedabad,Tier1,1
+MER00107,Patel Hospital,Healthcare,Delhi,Tier1,1
+MER00108,Handa Lodge,Hotel & Lodging,Indore,Tier2,1
+MER00109,Pathak Broadband,Utilities,Surat,Tier2,1
+MER00110,Sahni Textile,Clothing & Fashion,Bangalore,Tier1,1
+MER00111,Ramakrishnan Cab Service,Travel,Jodhpur,Tier3,1
+MER00112,Bhatt Ola,Auto & Transport,Moradabad,Tier3,1
+MER00113,Saha Residency,Rent,Visakhapatnam,Tier2,1
+MER00114,Subramaniam Apartments,Rent,Noida,Tier3,1
+MER00115,Subramaniam Restaurant,Food & Beverage,Patna,Tier2,1
+MER00116,Bhatnagar Daily Needs,Grocery,Bangalore,Tier1,1
+MER00117,Bhandari Electronics,Electronics,Hyderabad,Tier1,1
+MER00118,Dara Insurance Co,Insurance,Chennai,Tier1,0
+MER00119,Chandra Gym,Salon & Wellness,Visakhapatnam,Tier2,1
+MER00120,Vohra Gym,Salon & Wellness,Delhi,Tier1,1
+MER00121,Madan Dhaba,Food & Beverage,Mumbai,Tier1,1
+MER00122,Narayanan School Fees,Education,Delhi,Tier1,1
+MER00123,Kannan Supermart,Grocery,Ahmedabad,Tier1,1
+MER00124,Parmer Spa,Salon & Wellness,Kolkata,Tier1,1
+MER00125,Goswami Metro Card,Auto & Transport,Chennai,Tier1,1
+MER00126,Dash Realty,Rent,Kanpur,Tier2,1
+MER00127,Dutt Biryani House,Food & Beverage,Varanasi,Tier3,1
+MER00128,Krish College,Education,Chennai,Tier1,1
+MER00129,Chaudhuri Friend Transfer,P2P Transfer,Indore,Tier2,1
+MER00130,Iyengar Daily Needs,Grocery,Bikaner,Tier3,1
+MER00131,Kaul Uber,Auto & Transport,Lucknow,Tier2,1
+MER00132,Garde Daily Needs,Grocery,Ahmedabad,Tier1,1
+MER00133,Dutt Juice Corner,Food & Beverage,Bangalore,Tier1,1
+MER00134,Nagarajan Housing,Rent,Hyderabad,Tier1,1
+MER00135,Dani Cafe,Food & Beverage,Lucknow,Tier2,1
+MER00136,Kade Spa,Salon & Wellness,Surat,Tier2,1
+MER00137,Andra Diagnostic Lab,Healthcare,Ahmedabad,Tier1,1
+MER00138,Solanki Guest House,Hotel & Lodging,Moradabad,Tier3,1
+MER00139,Date Fresh Mart,Grocery,Visakhapatnam,Tier2,1
+MER00140,Cherian Salon,Salon & Wellness,Visakhapatnam,Tier2,1
+MER00141,Pillay Fresh Mart,Grocery,Bikaner,Tier3,1
+MER00142,Roy Service Apartment,Hotel & Lodging,Agra,Tier2,1
+MER00143,Oak Travel Agency,Travel,Chennai,Tier1,1
+MER00144,Kaul Inn,Hotel & Lodging,Agra,Tier2,1
+MER00145,Parmar Inn,Hotel & Lodging,Madurai,Tier2,1
+MER00146,Karpe Event,Entertainment,Hyderabad,Tier1,1
+MER00147,Trivedi Gadget Shop,Electronics,Coimbatore,Tier2,1
+MER00148,Kala Multiplex,Entertainment,Vadodara,Tier2,1
+MER00149,Garde Water Supply,Utilities,Delhi,Tier1,1
+MER00150,Randhawa HP Petrol,Fuel,Coimbatore,Tier2,1
+MER00151,Vohra Fresh Mart,Grocery,Ranchi,Tier2,1
+MER00152,Shroff Family Transfer,P2P Transfer,Coimbatore,Tier2,1
+MER00153,Misra Meesho,E-commerce,Bangalore,Tier1,1
+MER00154,Dixit Readymade,Clothing & Fashion,Kanpur,Tier2,1
+MER00155,Patel Nykaa,E-commerce,Surat,Tier2,1
+MER00156,Bhatti Insurance Co,Insurance,Pune,Tier1,0
+MER00157,Pall Hotel,Hotel & Lodging,Indore,Tier2,1
+MER00158,Menon Water Supply,Utilities,Bikaner,Tier3,1
+MER00159,Bora Rapido,Auto & Transport,Hyderabad,Tier1,1
+MER00160,Mandal Gaming Zone,Entertainment,Bhopal,Tier2,1
+MER00161,Dugar BPCL Outlet,Fuel,Kanpur,Tier2,1
+MER00162,Balasubramanian Diagnostic Lab,Healthcare,Agra,Tier2,1
+MER00163,More Auto Rickshaw,Auto & Transport,Aurangabad,Tier3,1
+MER00164,Raju College,Education,Vadodara,Tier2,1
+MER00165,Basak Supermart,Grocery,Agra,Tier2,1
+MER00166,Kara Broadband,Utilities,Agra,Tier2,1
+MER00167,Dyal Water Supply,Utilities,Kolkata,Tier1,1
+MER00168,Iyer Amazon,E-commerce,Mumbai,Tier1,1
+MER00169,Mani Cafe,Food & Beverage,Lucknow,Tier2,1
+MER00170,Mahajan Myntra,E-commerce,Amritsar,Tier3,1
+MER00171,Walla Cafe,Food & Beverage,Rajkot,Tier3,1
+MER00172,Loyal General Store,Grocery,Bangalore,Tier1,1
+MER00173,Divan Bus Service,Travel,Madurai,Tier2,1
+MER00174,Johal Fuel Station,Fuel,Amritsar,Tier3,1
+MER00175,Varughese Health Insurance,Insurance,Mumbai,Tier1,1
+MER00176,Ganesh Metro Card,Auto & Transport,Delhi,Tier1,1
+MER00177,Edwin Fresh Mart,Grocery,Kolkata,Tier1,1
+MER00178,Bobal Health Insurance,Insurance,Mumbai,Tier1,1
+MER00179,Naidu Water Supply,Utilities,Delhi,Tier1,1
+MER00180,Parmar Tuition,Education,Ranchi,Tier2,1
+MER00181,Radhakrishnan Dhaba,Food & Beverage,Visakhapatnam,Tier2,1
+MER00182,Barman Realty,Rent,Patna,Tier2,1
+MER00183,Sem Realty,Rent,Hyderabad,Tier1,1
+MER00184,Ghosh Juice Corner,Food & Beverage,Amritsar,Tier3,1
+MER00185,Sampath General Store,Grocery,Mumbai,Tier1,1
+MER00186,Mand Tiffin Center,Food & Beverage,Ranchi,Tier2,1
+MER00187,Kara Properties,Rent,Surat,Tier2,1
+MER00188,Ranganathan Cafe,Food & Beverage,Delhi,Tier1,1
+MER00189,Ahluwalia Indian Oil,Fuel,Delhi,Tier1,1
+MER00190,Savant Daily Needs,Grocery,Guwahati,Tier3,1
+MER00191,Gupta Hospital,Healthcare,Noida,Tier3,1
+MER00192,Vig Amazon,E-commerce,Noida,Tier3,1
+MER00193,Kibe Wellness Center,Salon & Wellness,Tiruchirappalli,Tier3,1
+MER00194,Virk SIP Payment,Investment,Hyderabad,Tier1,1
+MER00195,Chadha Sweet Shop,Food & Beverage,Ranchi,Tier2,1
+MER00196,Rao Electronics,Electronics,Agra,Tier2,1
+MER00197,Acharya Boutique,Clothing & Fashion,Mumbai,Tier1,1
+MER00198,Tata Metro Card,Auto & Transport,Ranchi,Tier2,1
+MER00199,Master Snapdeal,E-commerce,Indore,Tier2,1
+MER00200,Prashad Inn,Hotel & Lodging,Indore,Tier2,1
+MER00201,Mukherjee Diagnostic Lab,Healthcare,Rajkot,Tier3,1
+MER00202,Barad Fresh Mart,Grocery,Lucknow,Tier2,1
+MER00203,Karnik Restaurant,Food & Beverage,Agra,Tier2,1
+MER00204,Jani Mobile Store,Electronics,Jaipur,Tier2,1
+MER00205,Ratta Nykaa,E-commerce,Aurangabad,Tier3,1
+MER00206,Borah Gas Agency,Utilities,Aurangabad,Tier3,1
+MER00207,Mand Guest House,Hotel & Lodging,Madurai,Tier2,0
+MER00208,Palla Appliances,Electronics,Ranchi,Tier2,1
+MER00209,Deshpande Fresh Mart,Grocery,Vadodara,Tier2,1
+MER00210,Kapadia Textile,Clothing & Fashion,Nagpur,Tier2,1
+MER00211,Mangal Restaurant,Food & Beverage,Kanpur,Tier2,1
+MER00212,Morar Ola,Auto & Transport,Pune,Tier1,1
+MER00213,Narayanan Guest House,Hotel & Lodging,Nashik,Tier2,1
+MER00214,Sharaf Travel Agency,Travel,Mumbai,Tier1,1
+MER00215,Sule Gaming Zone,Entertainment,Vadodara,Tier2,1
+MER00216,Pai DTH Services,Utilities,Guwahati,Tier3,1
+MER00217,Vora Broadband,Utilities,Moradabad,Tier3,1
+MER00218,Sem Sweet Shop,Food & Beverage,Tiruchirappalli,Tier3,1
+MER00219,Prabhu Meesho,E-commerce,Pune,Tier1,1
+MER00220,Arora Kirana Store,Grocery,Ahmedabad,Tier1,1
+MER00221,Mangat Uber,Auto & Transport,Kolkata,Tier1,1
+MER00222,Sridhar Biryani House,Food & Beverage,Delhi,Tier1,1
+MER00223,Mutti Residency,Rent,Gorakhpur,Tier3,1
+MER00224,Mani Daily Needs,Grocery,Gorakhpur,Tier3,1
+MER00225,Ben General Store,Grocery,Ranchi,Tier2,1
+MER00226,Kaul Ola,Auto & Transport,Jodhpur,Tier3,1
+MER00227,Gulati Family Transfer,P2P Transfer,Hyderabad,Tier1,1
+MER00228,Hayre Kirana Store,Grocery,Faridabad,Tier3,1
+MER00229,Mahal Kirana Store,Grocery,Agra,Tier2,1
+MER00230,Goswami Motor Insurance,Insurance,Ahmedabad,Tier1,1
+MER00231,Ranganathan Supermart,Grocery,Madurai,Tier2,1
+MER00232,Sathe Nykaa,E-commerce,Bhopal,Tier2,1
+MER00233,Dugar Rapido,Auto & Transport,Nashik,Tier2,1
+MER00234,Mannan Multiplex,Entertainment,Mumbai,Tier1,1
+MER00235,Tailor Personal Transfer,P2P Transfer,Bareilly,Tier3,1
+MER00236,Pant Railway Booking,Travel,Ahmedabad,Tier1,1
+MER00237,Iyer Tiffin Center,Food & Beverage,Delhi,Tier1,1
+MER00238,Mohan OTT Platform,Entertainment,Jaipur,Tier2,1
+MER00239,Karan Tiffin Center,Food & Beverage,Delhi,Tier1,1
+MER00240,Bir Friend Transfer,P2P Transfer,Chennai,Tier1,1
+MER00241,Sidhu Personal Transfer,P2P Transfer,Varanasi,Tier3,1
+MER00242,Kala Mobile Store,Electronics,Hyderabad,Tier1,1
+MER00243,Halder Supermart,Grocery,Chennai,Tier1,1
+MER00244,Baral Supermart,Grocery,Chennai,Tier1,1
+MER00245,Buch Realty,Rent,Jabalpur,Tier3,1
+MER00246,Gokhale Restaurant,Food & Beverage,Kanpur,Tier2,1
+MER00247,Subramaniam Pharmacy,Healthcare,Pune,Tier1,1
+MER00248,Naik Snapdeal,E-commerce,Chennai,Tier1,1
+MER00249,Buch Sweet Shop,Food & Beverage,Mumbai,Tier1,1
+MER00250,Sem Kirana Store,Grocery,Jaipur,Tier2,1
+MER00251,Suresh HP Petrol,Fuel,Gorakhpur,Tier3,1
+MER00252,Chakraborty Juice Corner,Food & Beverage,Nagpur,Tier2,1
+MER00253,Pillai Cafe,Food & Beverage,Jodhpur,Tier3,0
+MER00254,Ramanathan Sweet Shop,Food & Beverage,Ahmedabad,Tier1,1
+MER00255,Palla Diagnostic Lab,Healthcare,Kolkata,Tier1,1
+MER00256,Soman Gym,Salon & Wellness,Indore,Tier2,1
+MER00257,Subramanian Fresh Mart,Grocery,Agra,Tier2,1
+MER00258,Ram Cinema,Entertainment,Kolkata,Tier1,1
+MER00259,Nayak Biryani House,Food & Beverage,Nagpur,Tier2,1
+MER00260,Atwal Nykaa,E-commerce,Bhopal,Tier2,1
+MER00261,Chadha Diagnostic Lab,Healthcare,Kolkata,Tier1,1
+MER00262,Muni Fuel Station,Fuel,Kolkata,Tier1,1
+MER00263,Borah Rapido,Auto & Transport,Gorakhpur,Tier3,1
+MER00264,Aggarwal Properties,Rent,Indore,Tier2,1
+MER00265,Goyal Event,Entertainment,Chennai,Tier1,1
+MER00266,Jayaraman Event,Entertainment,Pune,Tier1,1
+MER00267,Srinivas Family Transfer,P2P Transfer,Bhopal,Tier2,1
+MER00268,Dutt Railway Booking,Travel,Rajkot,Tier3,1
+MER00269,Deo Family Transfer,P2P Transfer,Agra,Tier2,1
+MER00270,Modi Water Supply,Utilities,Coimbatore,Tier2,1
+MER00271,Dixit Readymade,Clothing & Fashion,Mumbai,Tier1,1
+MER00272,Shroff Policy Bazaar,Insurance,Surat,Tier2,1
+MER00273,Shanker Diagnostic Lab,Healthcare,Jodhpur,Tier3,1
+MER00274,Kumer Medical Store,Healthcare,Vadodara,Tier2,1
+MER00275,Choudhury Ola,Auto & Transport,Visakhapatnam,Tier2,1
+MER00276,Shetty Cafe,Food & Beverage,Delhi,Tier1,0
+MER00277,Venkatesh Spa,Salon & Wellness,Kolkata,Tier1,0
+MER00278,Kunda Uber,Auto & Transport,Chennai,Tier1,1
+MER00279,Menon Tiffin Center,Food & Beverage,Kanpur,Tier2,1
+MER00280,Trivedi Dhaba,Food & Beverage,Varanasi,Tier3,1
+MER00281,Raval Broadband,Utilities,Ranchi,Tier2,1
+MER00282,Rai LIC,Insurance,Delhi,Tier1,1
+MER00283,Sood Kirana Store,Grocery,Mumbai,Tier1,1
+MER00284,Bala Insurance Co,Insurance,Allahabad,Tier3,1
+MER00285,Dyal Travel Agency,Travel,Jabalpur,Tier3,1
+MER00286,Rout Travel Agency,Travel,Coimbatore,Tier2,1
+MER00287,Dey Meesho,E-commerce,Pune,Tier1,1
+MER00288,Dyal Family Transfer,P2P Transfer,Kanpur,Tier2,1
+MER00289,Bedi SIP Payment,Investment,Mumbai,Tier1,1
+MER00290,Mahal Sweet Shop,Food & Beverage,Rajkot,Tier3,0
+MER00291,Ghose Insurance Co,Insurance,Pune,Tier1,1
+MER00292,Vig Flipkart,E-commerce,Jaipur,Tier2,1
+MER00293,Srinivas Restaurant,Food & Beverage,Indore,Tier2,1
+MER00294,Pillay Motor Insurance,Insurance,Vadodara,Tier2,1
+MER00295,Ahuja Amazon,E-commerce,Mumbai,Tier1,1
+MER00296,Hayer Cafe,Food & Beverage,Hyderabad,Tier1,1
+MER00297,Merchant Tuition,Education,Nagpur,Tier2,1
+MER00298,Om Restaurant,Food & Beverage,Mysore,Tier3,1
+MER00299,Krish OTT Platform,Entertainment,Jodhpur,Tier3,1
+MER00300,Dey Restaurant,Food & Beverage,Nashik,Tier2,1
+MER00301,Bhat Auto Rickshaw,Auto & Transport,Ahmedabad,Tier1,1
+MER00302,Karan Gadget Shop,Electronics,Ranchi,Tier2,1
+MER00303,Sangha Friend Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER00304,Dugar HP Petrol,Fuel,Hyderabad,Tier1,1
+MER00305,Kumar Juice Corner,Food & Beverage,Kolkata,Tier1,1
+MER00306,Morar Realty,Rent,Chennai,Tier1,1
+MER00307,Balakrishnan Apartments,Rent,Jabalpur,Tier3,1
+MER00308,Bose Meesho,E-commerce,Coimbatore,Tier2,1
+MER00309,Srinivas Kirana Store,Grocery,Delhi,Tier1,1
+MER00310,Kala Auto Rickshaw,Auto & Transport,Pune,Tier1,1
+MER00311,Prakash Housing,Rent,Kolkata,Tier1,1
+MER00312,Dar Diagnostic Lab,Healthcare,Bhopal,Tier2,1
+MER00313,Chad Uber,Auto & Transport,Ranchi,Tier2,1
+MER00314,Mukhopadhyay Kirana Store,Grocery,Amritsar,Tier3,1
+MER00315,Patla Nykaa,E-commerce,Moradabad,Tier3,1
+MER00316,Ramaswamy Restaurant,Food & Beverage,Agra,Tier2,1
+MER00317,Subramanian Travel Agency,Travel,Kolkata,Tier1,1
+MER00318,Narayan Beauty Parlour,Salon & Wellness,Pune,Tier1,1
+MER00319,Tella HP Petrol,Fuel,Chennai,Tier1,1
+MER00320,Kara Daily Needs,Grocery,Pune,Tier1,1
+MER00321,Rajagopalan General Store,Grocery,Ahmedabad,Tier1,1
+MER00322,Sathe Inn,Hotel & Lodging,Hyderabad,Tier1,1
+MER00323,Raj Juice Corner,Food & Beverage,Patna,Tier2,0
+MER00324,Kohli Insurance Co,Insurance,Hyderabad,Tier1,1
+MER00325,Kumar Fresh Mart,Grocery,Delhi,Tier1,1
+MER00326,Gera Garments,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00327,Nagarajan Personal Transfer,P2P Transfer,Bareilly,Tier3,1
+MER00328,Khosla Realty,Rent,Kolkata,Tier1,1
+MER00329,Narayanan Spa,Salon & Wellness,Hyderabad,Tier1,1
+MER00330,Raval Petrol Pump,Fuel,Bangalore,Tier1,1
+MER00331,Sehgal Meesho,E-commerce,Moradabad,Tier3,1
+MER00332,Narain Gym,Salon & Wellness,Lucknow,Tier2,1
+MER00333,Patel Kirana Store,Grocery,Visakhapatnam,Tier2,1
+MER00334,Batra Mobile Store,Electronics,Mumbai,Tier1,1
+MER00335,Banerjee Daily Needs,Grocery,Bangalore,Tier1,1
+MER00336,Venkatesh Gas Agency,Utilities,Agra,Tier2,1
+MER00337,Ravel HP Petrol,Fuel,Bhopal,Tier2,1
+MER00338,Salvi Mutual Fund,Investment,Delhi,Tier1,1
+MER00339,Bahl Appliances,Electronics,Hyderabad,Tier1,1
+MER00340,Wason Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00341,Varkey Ola,Auto & Transport,Pune,Tier1,1
+MER00342,Tara Mutual Fund,Investment,Kolkata,Tier1,1
+MER00343,Mishra Inn,Hotel & Lodging,Bikaner,Tier3,1
+MER00344,Sahota Dhaba,Food & Beverage,Hyderabad,Tier1,1
+MER00345,Sampath Cafe,Food & Beverage,Bangalore,Tier1,1
+MER00346,Tailor Readymade,Clothing & Fashion,Ranchi,Tier2,1
+MER00347,Atwal Travel Agency,Travel,Jaipur,Tier2,1
+MER00348,Dhillon Cafe,Food & Beverage,Pune,Tier1,0
+MER00349,Dhingra Auto Rickshaw,Auto & Transport,Bangalore,Tier1,1
+MER00350,Batta Tiffin Center,Food & Beverage,Hyderabad,Tier1,0
+MER00351,Pal Petrol Pump,Fuel,Ahmedabad,Tier1,1
+MER00352,Borah Realty,Rent,Delhi,Tier1,1
+MER00353,Deshpande Stock Broker,Investment,Kolkata,Tier1,1
+MER00354,Sagar Service Apartment,Hotel & Lodging,Kolkata,Tier1,1
+MER00355,Mitra Guest House,Hotel & Lodging,Bangalore,Tier1,1
+MER00356,Raghavan Beauty Parlour,Salon & Wellness,Ahmedabad,Tier1,1
+MER00357,Venkatesh Medical Store,Healthcare,Bangalore,Tier1,1
+MER00358,Tara Academy,Education,Lucknow,Tier2,0
+MER00359,Saxena Realty,Rent,Coimbatore,Tier2,1
+MER00360,Mand Flipkart,E-commerce,Pune,Tier1,1
+MER00361,Oak School Fees,Education,Chennai,Tier1,1
+MER00362,Devi Metro Card,Auto & Transport,Hyderabad,Tier1,1
+MER00363,Vohra Coaching Center,Education,Visakhapatnam,Tier2,1
+MER00364,Barman Tuition,Education,Bangalore,Tier1,1
+MER00365,Dube Beauty Parlour,Salon & Wellness,Surat,Tier2,1
+MER00366,Lall Family Transfer,P2P Transfer,Ghaziabad,Tier3,1
+MER00367,Thaman Rapido,Auto & Transport,Mysore,Tier3,1
+MER00368,Murty Event,Entertainment,Jabalpur,Tier3,1
+MER00369,Dixit Supermart,Grocery,Pune,Tier1,1
+MER00370,Sabharwal Bus Service,Travel,Delhi,Tier1,1
+MER00371,Date Metro Card,Auto & Transport,Nagpur,Tier2,0
+MER00372,Morar Indian Oil,Fuel,Coimbatore,Tier2,1
+MER00373,Bir Garments,Clothing & Fashion,Patna,Tier2,1
+MER00374,Kala Broadband,Utilities,Moradabad,Tier3,1
+MER00375,Patla Cafe,Food & Beverage,Allahabad,Tier3,1
+MER00376,Chanda Snapdeal,E-commerce,Mysore,Tier3,1
+MER00377,Handa Electronics,Electronics,Bhopal,Tier2,1
+MER00378,Kashyap Electronics,Electronics,Patna,Tier2,1
+MER00379,Prashad Metro Card,Auto & Transport,Kanpur,Tier2,1
+MER00380,Thaker Biryani House,Food & Beverage,Pune,Tier1,1
+MER00381,Trivedi Snapdeal,E-commerce,Jabalpur,Tier3,1
+MER00382,Badal Electric Board,Utilities,Bangalore,Tier1,0
+MER00383,Chaudhry Garments,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00384,Edwin College,Education,Pune,Tier1,1
+MER00385,Dara Cab Service,Travel,Nashik,Tier2,1
+MER00386,Dixit LIC,Insurance,Vadodara,Tier2,1
+MER00387,Chokshi Supermart,Grocery,Jaipur,Tier2,1
+MER00388,Deol Electronics,Electronics,Allahabad,Tier3,1
+MER00389,Sekhon Juice Corner,Food & Beverage,Kolkata,Tier1,1
+MER00390,Kuruvilla Readymade,Clothing & Fashion,Chennai,Tier1,1
+MER00391,Mittal Daily Needs,Grocery,Coimbatore,Tier2,1
+MER00392,Naidu Daily Needs,Grocery,Coimbatore,Tier2,1
+MER00393,Saini Railway Booking,Travel,Moradabad,Tier3,1
+MER00394,Loyal Family Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER00395,Soni Friend Transfer,P2P Transfer,Delhi,Tier1,1
+MER00396,Lad Petrol Pump,Fuel,Mumbai,Tier1,1
+MER00397,Vyas SIP Payment,Investment,Bhopal,Tier2,1
+MER00398,Viswanathan Dhaba,Food & Beverage,Mumbai,Tier1,1
+MER00399,Gole Tiffin Center,Food & Beverage,Bhopal,Tier2,1
+MER00400,Sandal College,Education,Hyderabad,Tier1,1
+MER00401,Choudhry Cab Service,Travel,Agra,Tier2,1
+MER00402,Goda Mutual Fund,Investment,Meerut,Tier3,1
+MER00403,Majumdar Pharmacy,Healthcare,Jabalpur,Tier3,1
+MER00404,Dutta Housing,Rent,Bangalore,Tier1,1
+MER00405,Ahuja Supermart,Grocery,Delhi,Tier1,1
+MER00406,Mitra Tiffin Center,Food & Beverage,Pune,Tier1,1
+MER00407,Gole Dhaba,Food & Beverage,Agra,Tier2,1
+MER00408,Aurora Service Apartment,Hotel & Lodging,Pune,Tier1,1
+MER00409,Bava Meesho,E-commerce,Madurai,Tier2,1
+MER00410,Tara Meesho,E-commerce,Ahmedabad,Tier1,1
+MER00411,Venkataraman Clinic,Healthcare,Aligarh,Tier3,1
+MER00412,Jani Fresh Mart,Grocery,Bikaner,Tier3,1
+MER00413,Ben Meesho,E-commerce,Guwahati,Tier3,1
+MER00414,Anand Coaching Center,Education,Noida,Tier3,1
+MER00415,Sura Gas Agency,Utilities,Coimbatore,Tier2,1
+MER00416,Batra Medical Store,Healthcare,Delhi,Tier1,1
+MER00417,Deshpande BPCL Outlet,Fuel,Mumbai,Tier1,1
+MER00418,Srinivasan Hotel,Hotel & Lodging,Coimbatore,Tier2,1
+MER00419,Raja Restaurant,Food & Beverage,Hyderabad,Tier1,1
+MER00420,Varkey Broadband,Utilities,Agra,Tier2,1
+MER00421,Chana Service Apartment,Hotel & Lodging,Jodhpur,Tier3,0
+MER00422,Purohit General Store,Grocery,Lucknow,Tier2,1
+MER00423,De Cab Service,Travel,Kanpur,Tier2,1
+MER00424,Vyas Wellness Center,Salon & Wellness,Aligarh,Tier3,1
+MER00425,Bath Flipkart,E-commerce,Surat,Tier2,0
+MER00426,Choudhry Boutique,Clothing & Fashion,Chennai,Tier1,1
+MER00427,Gupta Insurance Co,Insurance,Mumbai,Tier1,1
+MER00428,Bhandari Water Supply,Utilities,Visakhapatnam,Tier2,1
+MER00429,Mistry Gadget Shop,Electronics,Hyderabad,Tier1,1
+MER00430,Pandit Cafe,Food & Beverage,Delhi,Tier1,1
+MER00431,Raman Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00432,Srinivasan Water Supply,Utilities,Jaipur,Tier2,1
+MER00433,Chauhan Family Transfer,P2P Transfer,Indore,Tier2,1
+MER00434,Balasubramanian Tech Store,Electronics,Mumbai,Tier1,1
+MER00435,Dixit Auto Rickshaw,Auto & Transport,Chennai,Tier1,1
+MER00436,Basak Bus Service,Travel,Coimbatore,Tier2,1
+MER00437,Gola Housing,Rent,Chennai,Tier1,1
+MER00438,Barman Myntra,E-commerce,Mumbai,Tier1,1
+MER00439,Prasad Gadget Shop,Electronics,Hyderabad,Tier1,1
+MER00440,Savant Sweet Shop,Food & Beverage,Vadodara,Tier2,1
+MER00441,Ram College,Education,Ahmedabad,Tier1,1
+MER00442,Subramaniam Sweet Shop,Food & Beverage,Mumbai,Tier1,1
+MER00443,Gole Lodge,Hotel & Lodging,Kanpur,Tier2,0
+MER00444,Shah Kirana Store,Grocery,Pune,Tier1,1
+MER00445,Kaul Kirana Store,Grocery,Bangalore,Tier1,1
+MER00446,Rama Dhaba,Food & Beverage,Aligarh,Tier3,1
+MER00447,Rao Personal Transfer,P2P Transfer,Jaipur,Tier2,1
+MER00448,Vora Family Transfer,P2P Transfer,Agra,Tier2,1
+MER00449,Nori Tiffin Center,Food & Beverage,Mumbai,Tier1,1
+MER00450,Tandon Friend Transfer,P2P Transfer,Bikaner,Tier3,1
+MER00451,Jayaraman Nykaa,E-commerce,Delhi,Tier1,1
+MER00452,Banik Medical Store,Healthcare,Bhopal,Tier2,1
+MER00453,Prabhakar Indian Oil,Fuel,Delhi,Tier1,1
+MER00454,Sunder Water Supply,Utilities,Mumbai,Tier1,1
+MER00455,Din Railway Booking,Travel,Delhi,Tier1,1
+MER00456,Basu Bus Service,Travel,Chennai,Tier1,1
+MER00457,Sarna Snapdeal,E-commerce,Indore,Tier2,1
+MER00458,Dara OTT Platform,Entertainment,Kanpur,Tier2,1
+MER00459,Karan Dhaba,Food & Beverage,Hyderabad,Tier1,1
+MER00460,Kanda Readymade,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER00461,Nazareth Juice Corner,Food & Beverage,Chennai,Tier1,0
+MER00462,Chaudry Gym,Salon & Wellness,Chennai,Tier1,1
+MER00463,Tiwari Appliances,Electronics,Delhi,Tier1,1
+MER00464,Mohanty Electronics,Electronics,Bangalore,Tier1,1
+MER00465,Sen Coaching Center,Education,Varanasi,Tier3,1
+MER00466,Narayan Kirana Store,Grocery,Ranchi,Tier2,1
+MER00467,Ghose LIC,Insurance,Guwahati,Tier3,1
+MER00468,Sura Garments,Clothing & Fashion,Indore,Tier2,1
+MER00469,Sunder Garments,Clothing & Fashion,Madurai,Tier2,0
+MER00470,Sama Pharmacy,Healthcare,Agra,Tier2,1
+MER00471,Chana Kirana Store,Grocery,Delhi,Tier1,1
+MER00472,Gupta Juice Corner,Food & Beverage,Indore,Tier2,1
+MER00473,Hora Hospital,Healthcare,Coimbatore,Tier2,1
+MER00474,Goyal Bus Service,Travel,Vadodara,Tier2,1
+MER00475,Sridhar Amazon,E-commerce,Ghaziabad,Tier3,1
+MER00476,Krishna Snapdeal,E-commerce,Madurai,Tier2,1
+MER00477,Tata Daily Needs,Grocery,Delhi,Tier1,1
+MER00478,Chad Daily Needs,Grocery,Lucknow,Tier2,1
+MER00479,Bose Supermart,Grocery,Hyderabad,Tier1,1
+MER00480,Nayak Fresh Mart,Grocery,Chennai,Tier1,1
+MER00481,Pai Gaming Zone,Entertainment,Allahabad,Tier3,1
+MER00482,Chaudhuri Hospital,Healthcare,Vadodara,Tier2,1
+MER00483,Kakar Gym,Salon & Wellness,Delhi,Tier1,1
+MER00484,Chada Broadband,Utilities,Lucknow,Tier2,1
+MER00485,Atwal Friend Transfer,P2P Transfer,Nashik,Tier2,1
+MER00486,Natt Salon,Salon & Wellness,Coimbatore,Tier2,1
+MER00487,Saran Electronics,Electronics,Mumbai,Tier1,1
+MER00488,Boase Personal Transfer,P2P Transfer,Noida,Tier3,1
+MER00489,Halder Diagnostic Lab,Healthcare,Indore,Tier2,0
+MER00490,Dasgupta Salon,Salon & Wellness,Aurangabad,Tier3,1
+MER00491,Prashad Groww,Investment,Ahmedabad,Tier1,1
+MER00492,Mitter Tiffin Center,Food & Beverage,Nashik,Tier2,1
+MER00493,Misra Residency,Rent,Hyderabad,Tier1,1
+MER00494,Dhawan Travel Agency,Travel,Lucknow,Tier2,1
+MER00495,Madan Mobile Store,Electronics,Ranchi,Tier2,1
+MER00496,Walla Spa,Salon & Wellness,Coimbatore,Tier2,1
+MER00497,Datta Kirana Store,Grocery,Nashik,Tier2,1
+MER00498,Lal Airlines,Travel,Lucknow,Tier2,1
+MER00499,Sinha Fresh Mart,Grocery,Ahmedabad,Tier1,1
+MER00500,Verma Salon,Salon & Wellness,Nashik,Tier2,1
+MER00501,Dasgupta Lodge,Hotel & Lodging,Pune,Tier1,1
+MER00502,Jhaveri Meesho,E-commerce,Chennai,Tier1,1
+MER00503,Gandhi Inn,Hotel & Lodging,Surat,Tier2,0
+MER00504,Mani Airlines,Travel,Aligarh,Tier3,1
+MER00505,Ben Residency,Rent,Pune,Tier1,1
+MER00506,Banik Cafe,Food & Beverage,Ranchi,Tier2,1
+MER00507,Sahota Fashion Store,Clothing & Fashion,Bangalore,Tier1,1
+MER00508,Ravel Hotel,Hotel & Lodging,Lucknow,Tier2,1
+MER00509,Sastry Clinic,Healthcare,Kolkata,Tier1,1
+MER00510,Varty Daily Needs,Grocery,Chennai,Tier1,1
+MER00511,Shan OTT Platform,Entertainment,Kanpur,Tier2,1
+MER00512,Nair Gym,Salon & Wellness,Visakhapatnam,Tier2,1
+MER00513,Bumb Multiplex,Entertainment,Indore,Tier2,1
+MER00514,Dash Service Apartment,Hotel & Lodging,Chennai,Tier1,0
+MER00515,Chhabra Water Supply,Utilities,Madurai,Tier2,1
+MER00516,Kari Lodge,Hotel & Lodging,Jodhpur,Tier3,0
+MER00517,Sheth Cab Service,Travel,Mumbai,Tier1,0
+MER00518,Gola Fresh Mart,Grocery,Nagpur,Tier2,1
+MER00519,Ravel Nykaa,E-commerce,Kanpur,Tier2,1
+MER00520,Rastogi Travel Agency,Travel,Bhopal,Tier2,1
+MER00521,Gopal Uber,Auto & Transport,Ahmedabad,Tier1,1
+MER00522,Mangal Boutique,Clothing & Fashion,Chennai,Tier1,1
+MER00523,Kamdar General Store,Grocery,Kolkata,Tier1,1
+MER00524,Upadhyay Fresh Mart,Grocery,Hyderabad,Tier1,1
+MER00525,Shah Petrol Pump,Fuel,Tiruchirappalli,Tier3,1
+MER00526,Virk Fresh Mart,Grocery,Lucknow,Tier2,0
+MER00527,Nayak Myntra,E-commerce,Mumbai,Tier1,0
+MER00528,Panchal BPCL Outlet,Fuel,Bangalore,Tier1,1
+MER00529,Ramachandran Tiffin Center,Food & Beverage,Hyderabad,Tier1,1
+MER00530,Kapadia Petrol Pump,Fuel,Chennai,Tier1,0
+MER00531,Butala Guest House,Hotel & Lodging,Pune,Tier1,1
+MER00532,Iyer Railway Booking,Travel,Nagpur,Tier2,1
+MER00533,Boase Textile,Clothing & Fashion,Agra,Tier2,1
+MER00534,Mannan Uber,Auto & Transport,Bangalore,Tier1,1
+MER00535,Sani Myntra,E-commerce,Hyderabad,Tier1,1
+MER00536,Ganguly General Store,Grocery,Hyderabad,Tier1,1
+MER00537,Aggarwal Service Apartment,Hotel & Lodging,Hyderabad,Tier1,1
+MER00538,Singh Sweet Shop,Food & Beverage,Ahmedabad,Tier1,1
+MER00539,Devan Gadget Shop,Electronics,Ghaziabad,Tier3,0
+MER00540,Nadkarni Fresh Mart,Grocery,Gorakhpur,Tier3,1
+MER00541,Walia General Store,Grocery,Delhi,Tier1,1
+MER00542,Saini Daily Needs,Grocery,Ghaziabad,Tier3,1
+MER00543,Pandey Rapido,Auto & Transport,Delhi,Tier1,1
+MER00544,Comar Textile,Clothing & Fashion,Mysore,Tier3,1
+MER00545,Madan BPCL Outlet,Fuel,Kolkata,Tier1,1
+MER00546,Jayaraman Cinema,Entertainment,Pune,Tier1,1
+MER00547,Raj Garments,Clothing & Fashion,Kolkata,Tier1,1
+MER00548,Kanda Boutique,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER00549,Seshadri Snapdeal,E-commerce,Delhi,Tier1,1
+MER00550,Prabhu Tiffin Center,Food & Beverage,Visakhapatnam,Tier2,1
+MER00551,Parekh School Fees,Education,Aligarh,Tier3,1
+MER00552,Patel Spa,Salon & Wellness,Kanpur,Tier2,1
+MER00553,Srinivas DTH Services,Utilities,Madurai,Tier2,1
+MER00554,Upadhyay Stock Broker,Investment,Surat,Tier2,1
+MER00555,Nigam Cafe,Food & Beverage,Hyderabad,Tier1,1
+MER00556,Deol Friend Transfer,P2P Transfer,Mumbai,Tier1,1
+MER00557,Iyengar Uber,Auto & Transport,Visakhapatnam,Tier2,1
+MER00558,Grover Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00559,Nori Gas Agency,Utilities,Patna,Tier2,1
+MER00560,Vaidya Travel Agency,Travel,Lucknow,Tier2,1
+MER00561,Bansal Mobile Store,Electronics,Pune,Tier1,1
+MER00562,Garg Uber,Auto & Transport,Lucknow,Tier2,1
+MER00563,Koshy Properties,Rent,Chennai,Tier1,1
+MER00564,Mittal HP Petrol,Fuel,Kolkata,Tier1,1
+MER00565,Patla Motor Insurance,Insurance,Chennai,Tier1,1
+MER00566,Jhaveri Gas Agency,Utilities,Nagpur,Tier2,0
+MER00567,Agrawal Textile,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER00568,Nagi Restaurant,Food & Beverage,Delhi,Tier1,1
+MER00569,Iyengar Service Apartment,Hotel & Lodging,Jodhpur,Tier3,1
+MER00570,Chopra Tiffin Center,Food & Beverage,Indore,Tier2,1
+MER00571,Ahluwalia Amazon,E-commerce,Gorakhpur,Tier3,1
+MER00572,Tak Fresh Mart,Grocery,Pune,Tier1,1
+MER00573,Sachdev Juice Corner,Food & Beverage,Kanpur,Tier2,1
+MER00574,Goyal Gaming Zone,Entertainment,Bhopal,Tier2,0
+MER00575,Sharaf Juice Corner,Food & Beverage,Kanpur,Tier2,1
+MER00576,Jhaveri HP Petrol,Fuel,Patna,Tier2,1
+MER00577,Bhakta Beauty Parlour,Salon & Wellness,Vadodara,Tier2,0
+MER00578,Ratti General Store,Grocery,Kanpur,Tier2,1
+MER00579,Deol Medical Store,Healthcare,Mumbai,Tier1,1
+MER00580,Palla Rapido,Auto & Transport,Agra,Tier2,1
+MER00581,Malhotra Metro Card,Auto & Transport,Bangalore,Tier1,0
+MER00582,Kapoor Family Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER00583,Mann Diagnostic Lab,Healthcare,Pune,Tier1,1
+MER00584,Bhakta Juice Corner,Food & Beverage,Vadodara,Tier2,1
+MER00585,Sinha Medical Store,Healthcare,Aligarh,Tier3,1
+MER00586,Muni Inn,Hotel & Lodging,Mumbai,Tier1,1
+MER00587,Venkataraman Electric Board,Utilities,Bangalore,Tier1,1
+MER00588,Dhar Daily Needs,Grocery,Hyderabad,Tier1,1
+MER00589,Doctor Sweet Shop,Food & Beverage,Ranchi,Tier2,1
+MER00590,Doshi Cinema,Entertainment,Lucknow,Tier2,1
+MER00591,Dalal DTH Services,Utilities,Gorakhpur,Tier3,1
+MER00592,Sarma Hotel,Hotel & Lodging,Jaipur,Tier2,1
+MER00593,Yadav Cab Service,Travel,Lucknow,Tier2,1
+MER00594,Din Restaurant,Food & Beverage,Chandigarh,Tier3,1
+MER00595,Bedi Gas Agency,Utilities,Pune,Tier1,1
+MER00596,Acharya Personal Transfer,P2P Transfer,Vadodara,Tier2,1
+MER00597,Rajagopal Multiplex,Entertainment,Varanasi,Tier3,1
+MER00598,Kulkarni BPCL Outlet,Fuel,Delhi,Tier1,1
+MER00599,Sankaran Dhaba,Food & Beverage,Pune,Tier1,1
+MER00600,Balasubramanian College,Education,Hyderabad,Tier1,1
+MER00601,Nath College,Education,Delhi,Tier1,1
+MER00602,Sandal Rapido,Auto & Transport,Pune,Tier1,1
+MER00603,Nanda Restaurant,Food & Beverage,Lucknow,Tier2,1
+MER00604,Walia Broadband,Utilities,Madurai,Tier2,1
+MER00605,Zacharia Service Apartment,Hotel & Lodging,Pune,Tier1,1
+MER00606,Rao Gaming Zone,Entertainment,Bangalore,Tier1,1
+MER00607,Mohanty BPCL Outlet,Fuel,Bikaner,Tier3,1
+MER00608,Raja Personal Transfer,P2P Transfer,Agra,Tier2,1
+MER00609,Chada Wellness Center,Salon & Wellness,Delhi,Tier1,1
+MER00610,Tandon Stock Broker,Investment,Varanasi,Tier3,1
+MER00611,Borra Textile,Clothing & Fashion,Nashik,Tier2,1
+MER00612,Sharma Hotel,Hotel & Lodging,Visakhapatnam,Tier2,1
+MER00613,Chander Nykaa,E-commerce,Ahmedabad,Tier1,1
+MER00614,Jha OTT Platform,Entertainment,Allahabad,Tier3,1
+MER00615,Sankar Personal Transfer,P2P Transfer,Tiruchirappalli,Tier3,1
+MER00616,Chauhan LIC,Insurance,Bhopal,Tier2,1
+MER00617,Devan Friend Transfer,P2P Transfer,Surat,Tier2,1
+MER00618,Dar Flipkart,E-commerce,Lucknow,Tier2,1
+MER00619,Saha Auto Rickshaw,Auto & Transport,Nashik,Tier2,1
+MER00620,Batta Fuel Station,Fuel,Delhi,Tier1,1
+MER00621,Badami Fresh Mart,Grocery,Kolkata,Tier1,1
+MER00622,Bawa Salon,Salon & Wellness,Ahmedabad,Tier1,1
+MER00623,Acharya Uber,Auto & Transport,Kanpur,Tier2,1
+MER00624,Bora Gas Agency,Utilities,Delhi,Tier1,1
+MER00625,Behl Event,Entertainment,Chandigarh,Tier3,1
+MER00626,Sami Electric Board,Utilities,Kolkata,Tier1,0
+MER00627,Tandon Medical Store,Healthcare,Bangalore,Tier1,1
+MER00628,Sharma Lodge,Hotel & Lodging,Ahmedabad,Tier1,1
+MER00629,Pathak Supermart,Grocery,Vadodara,Tier2,1
+MER00630,Tella Snapdeal,E-commerce,Kolkata,Tier1,1
+MER00631,Bhasin Garments,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER00632,Rajagopal Motor Insurance,Insurance,Tiruchirappalli,Tier3,1
+MER00633,Lala Supermart,Grocery,Mumbai,Tier1,1
+MER00634,Sandal Lodge,Hotel & Lodging,Agra,Tier2,1
+MER00635,Buch Flipkart,E-commerce,Mumbai,Tier1,1
+MER00636,Srivastava Metro Card,Auto & Transport,Mumbai,Tier1,1
+MER00637,Bhandari Restaurant,Food & Beverage,Kanpur,Tier2,1
+MER00638,Narasimhan Gaming Zone,Entertainment,Chennai,Tier1,1
+MER00639,Srivastava Sweet Shop,Food & Beverage,Indore,Tier2,1
+MER00640,Karpe BPCL Outlet,Fuel,Guwahati,Tier3,1
+MER00641,Tandon Wellness Center,Salon & Wellness,Faridabad,Tier3,1
+MER00642,Shroff Housing,Rent,Chennai,Tier1,1
+MER00643,Anne Biryani House,Food & Beverage,Mumbai,Tier1,1
+MER00644,Bhardwaj Restaurant,Food & Beverage,Hyderabad,Tier1,1
+MER00645,Chaudhari General Store,Grocery,Coimbatore,Tier2,1
+MER00646,Warrior Realty,Rent,Vadodara,Tier2,1
+MER00647,Jhaveri Biryani House,Food & Beverage,Mumbai,Tier1,1
+MER00648,Natarajan Juice Corner,Food & Beverage,Kanpur,Tier2,1
+MER00649,Mandal Tiffin Center,Food & Beverage,Nagpur,Tier2,1
+MER00650,Ganguly Cafe,Food & Beverage,Surat,Tier2,1
+MER00651,Srinivasan Event,Entertainment,Chennai,Tier1,1
+MER00652,Gole Hospital,Healthcare,Allahabad,Tier3,1
+MER00653,Kata Amazon,E-commerce,Moradabad,Tier3,1
+MER00654,Dhillon HP Petrol,Fuel,Bhopal,Tier2,1
+MER00655,Dutt Daily Needs,Grocery,Jaipur,Tier2,1
+MER00656,Oommen School Fees,Education,Mumbai,Tier1,1
+MER00657,Naidu Service Apartment,Hotel & Lodging,Kolkata,Tier1,1
+MER00658,Nair Daily Needs,Grocery,Indore,Tier2,1
+MER00659,Sangha Spa,Salon & Wellness,Madurai,Tier2,1
+MER00660,Munshi General Store,Grocery,Kanpur,Tier2,1
+MER00661,Wagle BPCL Outlet,Fuel,Patna,Tier2,1
+MER00662,Lata Clinic,Healthcare,Meerut,Tier3,1
+MER00663,Bir DTH Services,Utilities,Surat,Tier2,1
+MER00664,Uppal Tiffin Center,Food & Beverage,Indore,Tier2,1
+MER00665,Cherian BPCL Outlet,Fuel,Kolkata,Tier1,1
+MER00666,Basu Wellness Center,Salon & Wellness,Indore,Tier2,1
+MER00667,Chaudhry Sweet Shop,Food & Beverage,Kolkata,Tier1,1
+MER00668,Kothari Medical Store,Healthcare,Kanpur,Tier2,1
+MER00669,Dalal HP Petrol,Fuel,Ranchi,Tier2,1
+MER00670,Balasubramanian Health Insurance,Insurance,Vadodara,Tier2,1
+MER00671,Modi Supermart,Grocery,Bangalore,Tier1,1
+MER00672,Apte Flipkart,E-commerce,Patna,Tier2,1
+MER00673,Kalita Uber,Auto & Transport,Guwahati,Tier3,1
+MER00674,Chowdhury Hospital,Healthcare,Nashik,Tier2,1
+MER00675,Apte Tiffin Center,Food & Beverage,Nashik,Tier2,1
+MER00676,Majumdar Guest House,Hotel & Lodging,Surat,Tier2,1
+MER00677,Pai Tech Store,Electronics,Madurai,Tier2,1
+MER00678,Gupta Meesho,E-commerce,Delhi,Tier1,1
+MER00679,Dey Gadget Shop,Electronics,Coimbatore,Tier2,0
+MER00680,Murty Tuition,Education,Pune,Tier1,0
+MER00681,Kashyap Electric Board,Utilities,Ahmedabad,Tier1,1
+MER00682,Dora Mobile Store,Electronics,Chennai,Tier1,1
+MER00683,Sankar Indian Oil,Fuel,Surat,Tier2,0
+MER00684,Chawla Properties,Rent,Visakhapatnam,Tier2,1
+MER00685,Ramesh Auto Rickshaw,Auto & Transport,Bhopal,Tier2,1
+MER00686,Goswami Supermart,Grocery,Meerut,Tier3,1
+MER00687,Rama Airlines,Travel,Nagpur,Tier2,1
+MER00688,Oommen Personal Transfer,P2P Transfer,Patna,Tier2,1
+MER00689,Mohan Bus Service,Travel,Kanpur,Tier2,1
+MER00690,Kumer Spa,Salon & Wellness,Bhopal,Tier2,1
+MER00691,Kaul Cinema,Entertainment,Aurangabad,Tier3,1
+MER00692,Datta Textile,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER00693,Kala Myntra,E-commerce,Ahmedabad,Tier1,1
+MER00694,Seth Dhaba,Food & Beverage,Indore,Tier2,1
+MER00695,Deep Dhaba,Food & Beverage,Madurai,Tier2,1
+MER00696,Patel Water Supply,Utilities,Bhopal,Tier2,1
+MER00697,Goel Guest House,Hotel & Lodging,Pune,Tier1,1
+MER00698,Kalita Myntra,E-commerce,Indore,Tier2,1
+MER00699,Nagarajan Biryani House,Food & Beverage,Patna,Tier2,1
+MER00700,Bedi Tiffin Center,Food & Beverage,Delhi,Tier1,1
+MER00701,Khanna Apartments,Rent,Indore,Tier2,1
+MER00702,Bala Cab Service,Travel,Indore,Tier2,1
+MER00703,Dara Rapido,Auto & Transport,Pune,Tier1,1
+MER00704,Tailor Fuel Station,Fuel,Aligarh,Tier3,1
+MER00705,Bhagat Boutique,Clothing & Fashion,Delhi,Tier1,1
+MER00706,Tripathi Spa,Salon & Wellness,Ahmedabad,Tier1,1
+MER00707,Minhas Friend Transfer,P2P Transfer,Kolkata,Tier1,1
+MER00708,Hari Daily Needs,Grocery,Madurai,Tier2,1
+MER00709,Acharya Hospital,Healthcare,Patna,Tier2,1
+MER00710,Kakar Supermart,Grocery,Gorakhpur,Tier3,1
+MER00711,Mital Juice Corner,Food & Beverage,Pune,Tier1,1
+MER00712,Ranganathan DTH Services,Utilities,Gorakhpur,Tier3,1
+MER00713,Sarna Rapido,Auto & Transport,Patna,Tier2,1
+MER00714,Vaidya Lodge,Hotel & Lodging,Aurangabad,Tier3,1
+MER00715,Vohra Electric Board,Utilities,Kolkata,Tier1,1
+MER00716,Talwar Rapido,Auto & Transport,Bangalore,Tier1,1
+MER00717,Lala Health Insurance,Insurance,Mumbai,Tier1,1
+MER00718,Varty Academy,Education,Madurai,Tier2,1
+MER00719,Deep BPCL Outlet,Fuel,Kolkata,Tier1,1
+MER00720,Randhawa Cafe,Food & Beverage,Lucknow,Tier2,1
+MER00721,Behl Flipkart,E-commerce,Meerut,Tier3,1
+MER00722,Mani Restaurant,Food & Beverage,Kolkata,Tier1,1
+MER00723,Seshadri Restaurant,Food & Beverage,Indore,Tier2,1
+MER00724,Biswas Boutique,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00725,Suri Personal Transfer,P2P Transfer,Noida,Tier3,1
+MER00726,Chad Indian Oil,Fuel,Agra,Tier2,1
+MER00727,Narasimhan Kirana Store,Grocery,Hyderabad,Tier1,1
+MER00728,Som Flipkart,E-commerce,Kolkata,Tier1,1
+MER00729,Saha General Store,Grocery,Agra,Tier2,1
+MER00730,Ranganathan Auto Rickshaw,Auto & Transport,Bangalore,Tier1,1
+MER00731,Bassi Water Supply,Utilities,Mumbai,Tier1,0
+MER00732,Sarin Personal Transfer,P2P Transfer,Hyderabad,Tier1,1
+MER00733,Ramakrishnan Apartments,Rent,Vadodara,Tier2,1
+MER00734,Bora Biryani House,Food & Beverage,Madurai,Tier2,1
+MER00735,Bali Restaurant,Food & Beverage,Visakhapatnam,Tier2,1
+MER00736,Sahota Groww,Investment,Guwahati,Tier3,1
+MER00737,Bhagat OTT Platform,Entertainment,Bangalore,Tier1,1
+MER00738,Sampath Pharmacy,Healthcare,Bangalore,Tier1,1
+MER00739,Golla Hotel,Hotel & Lodging,Ranchi,Tier2,1
+MER00740,Deep Tiffin Center,Food & Beverage,Hyderabad,Tier1,1
+MER00741,Batra Supermart,Grocery,Agra,Tier2,1
+MER00742,Rajagopal Auto Rickshaw,Auto & Transport,Mumbai,Tier1,1
+MER00743,Mangal Cab Service,Travel,Delhi,Tier1,1
+MER00744,Roy Personal Transfer,P2P Transfer,Meerut,Tier3,1
+MER00745,Yogi Properties,Rent,Ahmedabad,Tier1,1
+MER00746,Babu Cafe,Food & Beverage,Kanpur,Tier2,1
+MER00747,Mutti Inn,Hotel & Lodging,Allahabad,Tier3,1
+MER00748,Chopra Ola,Auto & Transport,Delhi,Tier1,1
+MER00749,Deshmukh Spa,Salon & Wellness,Indore,Tier2,1
+MER00750,Chowdhury Broadband,Utilities,Lucknow,Tier2,1
+MER00751,Bath Gadget Shop,Electronics,Nashik,Tier2,1
+MER00752,Keer Boutique,Clothing & Fashion,Kanpur,Tier2,1
+MER00753,Chakraborty Pharmacy,Healthcare,Jaipur,Tier2,1
+MER00754,Shanker Diagnostic Lab,Healthcare,Kolkata,Tier1,1
+MER00755,Purohit Appliances,Electronics,Chennai,Tier1,1
+MER00756,Chandran Tiffin Center,Food & Beverage,Visakhapatnam,Tier2,1
+MER00757,Gour Family Transfer,P2P Transfer,Jaipur,Tier2,1
+MER00758,Deol Cafe,Food & Beverage,Amritsar,Tier3,1
+MER00759,Sekhon Supermart,Grocery,Kolkata,Tier1,1
+MER00760,Madan Realty,Rent,Vadodara,Tier2,1
+MER00761,Sundaram College,Education,Pune,Tier1,0
+MER00762,Baria Railway Booking,Travel,Hyderabad,Tier1,1
+MER00763,Randhawa HP Petrol,Fuel,Hyderabad,Tier1,1
+MER00764,Goswami Housing,Rent,Ahmedabad,Tier1,1
+MER00765,Palan Diagnostic Lab,Healthcare,Moradabad,Tier3,1
+MER00766,Manda Coaching Center,Education,Visakhapatnam,Tier2,1
+MER00767,Seth Ola,Auto & Transport,Surat,Tier2,1
+MER00768,Ramesh Mobile Store,Electronics,Visakhapatnam,Tier2,1
+MER00769,Ratta Cafe,Food & Beverage,Moradabad,Tier3,1
+MER00770,Agrawal Hotel,Hotel & Lodging,Nagpur,Tier2,1
+MER00771,Bhalla Travel Agency,Travel,Bareilly,Tier3,1
+MER00772,Soman Dhaba,Food & Beverage,Faridabad,Tier3,1
+MER00773,Prashad Spa,Salon & Wellness,Ahmedabad,Tier1,1
+MER00774,Ramesh Service Apartment,Hotel & Lodging,Kolkata,Tier1,1
+MER00775,Munshi Meesho,E-commerce,Meerut,Tier3,1
+MER00776,Keer BPCL Outlet,Fuel,Hyderabad,Tier1,1
+MER00777,Sahni Cafe,Food & Beverage,Jaipur,Tier2,1
+MER00778,Kashyap OTT Platform,Entertainment,Kanpur,Tier2,1
+MER00779,Lanka Kirana Store,Grocery,Bikaner,Tier3,1
+MER00780,Barad Housing,Rent,Bangalore,Tier1,1
+MER00781,Chander Inn,Hotel & Lodging,Surat,Tier2,1
+MER00782,Chatterjee Fresh Mart,Grocery,Bangalore,Tier1,1
+MER00783,Mody Health Insurance,Insurance,Kanpur,Tier2,1
+MER00784,Mahal Amazon,E-commerce,Pune,Tier1,1
+MER00785,Kaur College,Education,Guwahati,Tier3,1
+MER00786,Panchal Guest House,Hotel & Lodging,Mumbai,Tier1,1
+MER00787,Sankaran Personal Transfer,P2P Transfer,Jodhpur,Tier3,1
+MER00788,Goswami Sweet Shop,Food & Beverage,Ahmedabad,Tier1,1
+MER00789,Devan Bus Service,Travel,Kolkata,Tier1,1
+MER00790,Raju Restaurant,Food & Beverage,Agra,Tier2,1
+MER00791,Gera Guest House,Hotel & Lodging,Mysore,Tier3,1
+MER00792,Talwar Lodge,Hotel & Lodging,Kolkata,Tier1,1
+MER00793,Thakur Supermart,Grocery,Bhopal,Tier2,1
+MER00794,Varkey Kirana Store,Grocery,Tiruchirappalli,Tier3,1
+MER00795,Chaudhuri Dhaba,Food & Beverage,Nashik,Tier2,1
+MER00796,Bhatt Dhaba,Food & Beverage,Aurangabad,Tier3,1
+MER00797,Sama Properties,Rent,Madurai,Tier2,0
+MER00798,Krishnamurthy Restaurant,Food & Beverage,Kolkata,Tier1,1
+MER00799,Goswami Lodge,Hotel & Lodging,Indore,Tier2,1
+MER00800,Bir Clinic,Healthcare,Tiruchirappalli,Tier3,1
+MER00801,Ratti LIC,Insurance,Visakhapatnam,Tier2,1
+MER00802,Mall Diagnostic Lab,Healthcare,Gorakhpur,Tier3,1
+MER00803,Kaur Personal Transfer,P2P Transfer,Lucknow,Tier2,1
+MER00804,Rastogi Amazon,E-commerce,Hyderabad,Tier1,1
+MER00805,Sha Petrol Pump,Fuel,Aurangabad,Tier3,1
+MER00806,Sheth Cab Service,Travel,Chennai,Tier1,1
+MER00807,Bhat Kirana Store,Grocery,Ahmedabad,Tier1,1
+MER00808,Mitter Restaurant,Food & Beverage,Kolkata,Tier1,1
+MER00809,Ramanathan Metro Card,Auto & Transport,Madurai,Tier2,1
+MER00810,Mukhopadhyay Snapdeal,E-commerce,Chennai,Tier1,0
+MER00811,Butala OTT Platform,Entertainment,Nagpur,Tier2,1
+MER00812,Bora Sweet Shop,Food & Beverage,Hyderabad,Tier1,1
+MER00813,Kumar Sweet Shop,Food & Beverage,Indore,Tier2,1
+MER00814,Vohra School Fees,Education,Delhi,Tier1,1
+MER00815,Bahri Uber,Auto & Transport,Delhi,Tier1,1
+MER00816,Sha Beauty Parlour,Salon & Wellness,Visakhapatnam,Tier2,1
+MER00817,Batra Electric Board,Utilities,Visakhapatnam,Tier2,1
+MER00818,Chaudhary Inn,Hotel & Lodging,Mumbai,Tier1,0
+MER00819,Zachariah Family Transfer,P2P Transfer,Nashik,Tier2,1
+MER00820,Dugal Petrol Pump,Fuel,Visakhapatnam,Tier2,1
+MER00821,Jain Boutique,Clothing & Fashion,Pune,Tier1,1
+MER00822,Purohit Policy Bazaar,Insurance,Vadodara,Tier2,0
+MER00823,Dubey Petrol Pump,Fuel,Jaipur,Tier2,1
+MER00824,Parmer Guest House,Hotel & Lodging,Gorakhpur,Tier3,1
+MER00825,Barad Properties,Rent,Bangalore,Tier1,1
+MER00826,Mahajan Rapido,Auto & Transport,Kanpur,Tier2,1
+MER00827,Dutt Restaurant,Food & Beverage,Vadodara,Tier2,1
+MER00828,Sehgal Textile,Clothing & Fashion,Chennai,Tier1,1
+MER00829,Jha Appliances,Electronics,Nagpur,Tier2,1
+MER00830,Desai Fuel Station,Fuel,Bareilly,Tier3,1
+MER00831,Varughese Restaurant,Food & Beverage,Chandigarh,Tier3,1
+MER00832,Mahajan Mobile Store,Electronics,Meerut,Tier3,1
+MER00833,Dugar Supermart,Grocery,Delhi,Tier1,1
+MER00834,Chauhan OTT Platform,Entertainment,Delhi,Tier1,1
+MER00835,Randhawa Personal Transfer,P2P Transfer,Jabalpur,Tier3,1
+MER00836,Merchant Lodge,Hotel & Lodging,Bangalore,Tier1,1
+MER00837,Tak Dhaba,Food & Beverage,Aligarh,Tier3,1
+MER00838,Dey Fashion Store,Clothing & Fashion,Amritsar,Tier3,1
+MER00839,Kibe Ola,Auto & Transport,Hyderabad,Tier1,1
+MER00840,Shukla Personal Transfer,P2P Transfer,Nagpur,Tier2,1
+MER00841,Batta Diagnostic Lab,Healthcare,Delhi,Tier1,1
+MER00842,Kibe Rapido,Auto & Transport,Surat,Tier2,1
+MER00843,Tailor Friend Transfer,P2P Transfer,Ghaziabad,Tier3,1
+MER00844,Sem Boutique,Clothing & Fashion,Bangalore,Tier1,1
+MER00845,Acharya Appliances,Electronics,Vadodara,Tier2,0
+MER00846,Doshi Fashion Store,Clothing & Fashion,Mysore,Tier3,1
+MER00847,Sule Medical Store,Healthcare,Kolkata,Tier1,1
+MER00848,Agarwal Auto Rickshaw,Auto & Transport,Nashik,Tier2,1
+MER00849,Deshmukh Dhaba,Food & Beverage,Nagpur,Tier2,1
+MER00850,Majumdar Dhaba,Food & Beverage,Patna,Tier2,1
+MER00851,Bali SIP Payment,Investment,Ranchi,Tier2,1
+MER00852,Kanda Groww,Investment,Patna,Tier2,0
+MER00853,Bajaj Broadband,Utilities,Bangalore,Tier1,1
+MER00854,Badami Hospital,Healthcare,Bangalore,Tier1,1
+MER00855,Palla Wellness Center,Salon & Wellness,Bhopal,Tier2,0
+MER00856,Tandon Water Supply,Utilities,Nagpur,Tier2,1
+MER00857,Ramachandran Travel Agency,Travel,Kolkata,Tier1,1
+MER00858,Soman Diagnostic Lab,Healthcare,Lucknow,Tier2,1
+MER00859,Viswanathan Inn,Hotel & Lodging,Kanpur,Tier2,1
+MER00860,Yogi Service Apartment,Hotel & Lodging,Madurai,Tier2,1
+MER00861,Zachariah Sweet Shop,Food & Beverage,Delhi,Tier1,1
+MER00862,Ratti Mutual Fund,Investment,Vadodara,Tier2,1
+MER00863,Sahni Railway Booking,Travel,Ranchi,Tier2,1
+MER00864,Desai Fresh Mart,Grocery,Mumbai,Tier1,1
+MER00865,Manda Fuel Station,Fuel,Delhi,Tier1,1
+MER00866,Vala General Store,Grocery,Gorakhpur,Tier3,1
+MER00867,Nazareth Fresh Mart,Grocery,Meerut,Tier3,1
+MER00868,Tata Biryani House,Food & Beverage,Kolkata,Tier1,1
+MER00869,Bassi Hotel,Hotel & Lodging,Gorakhpur,Tier3,1
+MER00870,Srivastava Meesho,E-commerce,Madurai,Tier2,1
+MER00871,Padmanabhan Juice Corner,Food & Beverage,Lucknow,Tier2,1
+MER00872,Thakur Policy Bazaar,Insurance,Jaipur,Tier2,1
+MER00873,Bhagat Clinic,Healthcare,Ahmedabad,Tier1,1
+MER00874,Iyer Friend Transfer,P2P Transfer,Kolkata,Tier1,1
+MER00875,Peri Personal Transfer,P2P Transfer,Faridabad,Tier3,1
+MER00876,Pradhan Electric Board,Utilities,Pune,Tier1,1
+MER00877,Jayaraman Hospital,Healthcare,Agra,Tier2,1
+MER00878,Dar Restaurant,Food & Beverage,Mumbai,Tier1,1
+MER00879,Dhillon Garments,Clothing & Fashion,Jodhpur,Tier3,0
+MER00880,Raghavan Appliances,Electronics,Bhopal,Tier2,1
+MER00881,Rajagopal Garments,Clothing & Fashion,Ahmedabad,Tier1,1
+MER00882,Dass Meesho,E-commerce,Agra,Tier2,1
+MER00883,Anand Zerodha,Investment,Aligarh,Tier3,1
+MER00884,Mohanty General Store,Grocery,Visakhapatnam,Tier2,1
+MER00885,Mistry Amazon,E-commerce,Chennai,Tier1,1
+MER00886,Ray Realty,Rent,Lucknow,Tier2,1
+MER00887,Pandya Dhaba,Food & Beverage,Indore,Tier2,1
+MER00888,Subramanian Tiffin Center,Food & Beverage,Rajkot,Tier3,1
+MER00889,Shetty Fresh Mart,Grocery,Mumbai,Tier1,1
+MER00890,Sekhon Multiplex,Entertainment,Madurai,Tier2,1
+MER00891,Nadig Sweet Shop,Food & Beverage,Madurai,Tier2,1
+MER00892,Shanker Lodge,Hotel & Lodging,Rajkot,Tier3,1
+MER00893,Ramaswamy Daily Needs,Grocery,Jodhpur,Tier3,1
+MER00894,Bal Electronics,Electronics,Hyderabad,Tier1,1
+MER00895,Kapoor Electric Board,Utilities,Mumbai,Tier1,1
+MER00896,Sinha Amazon,E-commerce,Patna,Tier2,1
+MER00897,Gade BPCL Outlet,Fuel,Bangalore,Tier1,1
+MER00898,Rama College,Education,Chennai,Tier1,1
+MER00899,Nagi College,Education,Faridabad,Tier3,1
+MER00900,Nagarajan Juice Corner,Food & Beverage,Meerut,Tier3,1
+MER00901,Babu Petrol Pump,Fuel,Jaipur,Tier2,1
+MER00902,Srinivas Broadband,Utilities,Chennai,Tier1,1
+MER00903,Basak Gas Agency,Utilities,Nashik,Tier2,1
+MER00904,Buch Supermart,Grocery,Lucknow,Tier2,1
+MER00905,Hayer Juice Corner,Food & Beverage,Mumbai,Tier1,1
+MER00906,Kuruvilla Inn,Hotel & Lodging,Bangalore,Tier1,1
+MER00907,Karpe Policy Bazaar,Insurance,Ranchi,Tier2,1
+MER00908,Amble Guest House,Hotel & Lodging,Noida,Tier3,1
+MER00909,Vaidya Sweet Shop,Food & Beverage,Pune,Tier1,1
+MER00910,Randhawa Properties,Rent,Kolkata,Tier1,1
+MER00911,Goswami Flipkart,E-commerce,Patna,Tier2,1
+MER00912,Bajaj Tech Store,Electronics,Gorakhpur,Tier3,1
+MER00913,Dass Myntra,E-commerce,Ghaziabad,Tier3,1
+MER00914,Bhargava Travel Agency,Travel,Ahmedabad,Tier1,1
+MER00915,Oak Electric Board,Utilities,Lucknow,Tier2,1
+MER00916,Bajaj General Store,Grocery,Madurai,Tier2,1
+MER00917,Bahl Biryani House,Food & Beverage,Agra,Tier2,1
+MER00918,Dey Biryani House,Food & Beverage,Ahmedabad,Tier1,1
+MER00919,Nagi Snapdeal,E-commerce,Visakhapatnam,Tier2,1
+MER00920,Mander Residency,Rent,Guwahati,Tier3,1
+MER00921,Dasgupta Stock Broker,Investment,Mysore,Tier3,1
+MER00922,Raju Tiffin Center,Food & Beverage,Visakhapatnam,Tier2,1
+MER00923,Yohannan Broadband,Utilities,Jaipur,Tier2,1
+MER00924,Chatterjee Family Transfer,P2P Transfer,Faridabad,Tier3,1
+MER00925,Sangha Hospital,Healthcare,Bangalore,Tier1,1
+MER00926,Raghavan Inn,Hotel & Lodging,Pune,Tier1,1
+MER00927,Tripathi Biryani House,Food & Beverage,Chennai,Tier1,1
+MER00928,Bora Readymade,Clothing & Fashion,Indore,Tier2,1
+MER00929,Subramanian Diagnostic Lab,Healthcare,Bangalore,Tier1,1
+MER00930,Thaker Coaching Center,Education,Chennai,Tier1,1
+MER00931,Varghese Family Transfer,P2P Transfer,Hyderabad,Tier1,1
+MER00932,Ratti Meesho,E-commerce,Mumbai,Tier1,1
+MER00933,Kannan Restaurant,Food & Beverage,Chandigarh,Tier3,1
+MER00934,Batra Inn,Hotel & Lodging,Nagpur,Tier2,1
+MER00935,Sampath Event,Entertainment,Surat,Tier2,1
+MER00936,Magar Dhaba,Food & Beverage,Agra,Tier2,1
+MER00937,Tripathi Broadband,Utilities,Agra,Tier2,0
+MER00938,Khanna General Store,Grocery,Lucknow,Tier2,1
+MER00939,Bir Spa,Salon & Wellness,Guwahati,Tier3,1
+MER00940,Murty Snapdeal,E-commerce,Delhi,Tier1,1
+MER00941,Dhingra Medical Store,Healthcare,Jodhpur,Tier3,1
+MER00942,Sarin Service Apartment,Hotel & Lodging,Coimbatore,Tier2,1
+MER00943,Sachdev Auto Rickshaw,Auto & Transport,Kolkata,Tier1,1
+MER00944,Lad Water Supply,Utilities,Indore,Tier2,1
+MER00945,Thakkar Hotel,Hotel & Lodging,Bangalore,Tier1,1
+MER00946,Sekhon Appliances,Electronics,Mumbai,Tier1,1
+MER00947,Uppal Nykaa,E-commerce,Chennai,Tier1,1
+MER00948,Bhandari Restaurant,Food & Beverage,Ahmedabad,Tier1,1
+MER00949,Sha Tech Store,Electronics,Mumbai,Tier1,0
+MER00950,Dass Restaurant,Food & Beverage,Patna,Tier2,1
+MER00951,Bhattacharyya Sweet Shop,Food & Beverage,Chennai,Tier1,1
+MER00952,Mohanty Policy Bazaar,Insurance,Agra,Tier2,1
+MER00953,Bava Rapido,Auto & Transport,Bareilly,Tier3,1
+MER00954,Chatterjee Biryani House,Food & Beverage,Indore,Tier2,1
+MER00955,Kapadia Fresh Mart,Grocery,Coimbatore,Tier2,1
+MER00956,Dalal Personal Transfer,P2P Transfer,Pune,Tier1,1
+MER00957,Bir Snapdeal,E-commerce,Ahmedabad,Tier1,1
+MER00958,Dugar LIC,Insurance,Ghaziabad,Tier3,1
+MER00959,Salvi Myntra,E-commerce,Chennai,Tier1,1
+MER00960,Sanghvi Airlines,Travel,Indore,Tier2,0
+MER00961,Rao Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER00962,Karnik Cab Service,Travel,Chennai,Tier1,1
+MER00963,Randhawa Biryani House,Food & Beverage,Visakhapatnam,Tier2,0
+MER00964,Roy Metro Card,Auto & Transport,Bangalore,Tier1,1
+MER00965,Lala Cafe,Food & Beverage,Lucknow,Tier2,1
+MER00966,Puri Electric Board,Utilities,Bareilly,Tier3,1
+MER00967,Soni Meesho,E-commerce,Lucknow,Tier2,1
+MER00968,Korpal Daily Needs,Grocery,Surat,Tier2,1
+MER00969,Vyas Sweet Shop,Food & Beverage,Ranchi,Tier2,1
+MER00970,Korpal Gaming Zone,Entertainment,Varanasi,Tier3,1
+MER00971,Basak Snapdeal,E-commerce,Coimbatore,Tier2,1
+MER00972,Lal Family Transfer,P2P Transfer,Pune,Tier1,1
+MER00973,Pillai Garments,Clothing & Fashion,Delhi,Tier1,1
+MER00974,Raval Supermart,Grocery,Jaipur,Tier2,1
+MER00975,Manda Apartments,Rent,Delhi,Tier1,1
+MER00976,Brahmbhatt Kirana Store,Grocery,Faridabad,Tier3,1
+MER00977,Sahni Realty,Rent,Pune,Tier1,1
+MER00978,Prashad Readymade,Clothing & Fashion,Lucknow,Tier2,1
+MER00979,Dugar Fresh Mart,Grocery,Noida,Tier3,0
+MER00980,Deo Auto Rickshaw,Auto & Transport,Coimbatore,Tier2,1
+MER00981,Choudhry Cafe,Food & Beverage,Nagpur,Tier2,1
+MER00982,Hans Gym,Salon & Wellness,Kolkata,Tier1,1
+MER00983,Mishra OTT Platform,Entertainment,Coimbatore,Tier2,1
+MER00984,Bhatnagar Friend Transfer,P2P Transfer,Bangalore,Tier1,1
+MER00985,Master Fuel Station,Fuel,Ahmedabad,Tier1,1
+MER00986,Dube Snapdeal,E-commerce,Delhi,Tier1,1
+MER00987,Pandey Daily Needs,Grocery,Meerut,Tier3,1
+MER00988,Manne Tech Store,Electronics,Mumbai,Tier1,1
+MER00989,Jain Daily Needs,Grocery,Visakhapatnam,Tier2,1
+MER00990,Gara Daily Needs,Grocery,Varanasi,Tier3,1
+MER00991,Dugar Juice Corner,Food & Beverage,Indore,Tier2,1
+MER00992,Rau Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER00993,Dada Fuel Station,Fuel,Kanpur,Tier2,1
+MER00994,Baria Hotel,Hotel & Lodging,Visakhapatnam,Tier2,1
+MER00995,Hari Fashion Store,Clothing & Fashion,Bangalore,Tier1,1
+MER00996,Dube College,Education,Bareilly,Tier3,1
+MER00997,Krishnamurthy BPCL Outlet,Fuel,Pune,Tier1,1
+MER00998,Choudhry Electric Board,Utilities,Delhi,Tier1,1
+MER00999,Chanda General Store,Grocery,Gorakhpur,Tier3,1
+MER01000,Kulkarni Restaurant,Food & Beverage,Bhopal,Tier2,1
+MER01001,Dhar Petrol Pump,Fuel,Mumbai,Tier1,1
+MER01002,Pillay Mutual Fund,Investment,Moradabad,Tier3,1
+MER01003,Mitra Spa,Salon & Wellness,Allahabad,Tier3,1
+MER01004,Bassi Snapdeal,E-commerce,Bangalore,Tier1,1
+MER01005,Chana Gas Agency,Utilities,Chennai,Tier1,1
+MER01006,Upadhyay Tech Store,Electronics,Visakhapatnam,Tier2,1
+MER01007,Ramachandran SIP Payment,Investment,Visakhapatnam,Tier2,1
+MER01008,Taneja HP Petrol,Fuel,Visakhapatnam,Tier2,1
+MER01009,Atwal Cafe,Food & Beverage,Patna,Tier2,1
+MER01010,Bhandari Multiplex,Entertainment,Chennai,Tier1,1
+MER01011,Bedi Personal Transfer,P2P Transfer,Kolkata,Tier1,1
+MER01012,Halder Indian Oil,Fuel,Jaipur,Tier2,1
+MER01013,Ben Railway Booking,Travel,Visakhapatnam,Tier2,1
+MER01014,Mani Kirana Store,Grocery,Kolkata,Tier1,1
+MER01015,Bawa Meesho,E-commerce,Bangalore,Tier1,1
+MER01016,Sankar Sweet Shop,Food & Beverage,Bhopal,Tier2,1
+MER01017,Chander Boutique,Clothing & Fashion,Hyderabad,Tier1,1
+MER01018,Gade Realty,Rent,Guwahati,Tier3,1
+MER01019,Vyas Myntra,E-commerce,Bhopal,Tier2,0
+MER01020,Mital OTT Platform,Entertainment,Patna,Tier2,1
+MER01021,Sanghvi Myntra,E-commerce,Vadodara,Tier2,1
+MER01022,Shetty Tiffin Center,Food & Beverage,Patna,Tier2,1
+MER01023,Sachar Insurance Co,Insurance,Rajkot,Tier3,0
+MER01024,Ahluwalia Inn,Hotel & Lodging,Surat,Tier2,1
+MER01025,Kohli Nykaa,E-commerce,Vadodara,Tier2,1
+MER01026,Sahni Guest House,Hotel & Lodging,Allahabad,Tier3,1
+MER01027,Gupta Inn,Hotel & Lodging,Surat,Tier2,1
+MER01028,Sahota Daily Needs,Grocery,Patna,Tier2,1
+MER01029,Kara General Store,Grocery,Mumbai,Tier1,1
+MER01030,Iyengar Multiplex,Entertainment,Delhi,Tier1,1
+MER01031,Basu Indian Oil,Fuel,Nashik,Tier2,1
+MER01032,Chaudhari Cab Service,Travel,Pune,Tier1,1
+MER01033,Rajagopalan Snapdeal,E-commerce,Gorakhpur,Tier3,1
+MER01034,Vasa Friend Transfer,P2P Transfer,Kolkata,Tier1,1
+MER01035,Char Tech Store,Electronics,Ghaziabad,Tier3,1
+MER01036,Gupta Wellness Center,Salon & Wellness,Madurai,Tier2,1
+MER01037,Bhatt General Store,Grocery,Kolkata,Tier1,1
+MER01038,Goswami Hospital,Healthcare,Kolkata,Tier1,1
+MER01039,Mital Airlines,Travel,Mumbai,Tier1,1
+MER01040,Varkey Multiplex,Entertainment,Agra,Tier2,1
+MER01041,Aggarwal Family Transfer,P2P Transfer,Mumbai,Tier1,1
+MER01042,Ranganathan Hospital,Healthcare,Patna,Tier2,1
+MER01043,Chauhan Petrol Pump,Fuel,Coimbatore,Tier2,1
+MER01044,Boase Kirana Store,Grocery,Vadodara,Tier2,0
+MER01045,Jha Cab Service,Travel,Kolkata,Tier1,1
+MER01046,Sahni General Store,Grocery,Pune,Tier1,1
+MER01047,Raju Rapido,Auto & Transport,Bhopal,Tier2,1
+MER01048,Ben Sweet Shop,Food & Beverage,Nashik,Tier2,1
+MER01049,Radhakrishnan Auto Rickshaw,Auto & Transport,Visakhapatnam,Tier2,1
+MER01050,Bandi DTH Services,Utilities,Hyderabad,Tier1,1
+MER01051,Rajan Personal Transfer,P2P Transfer,Delhi,Tier1,1
+MER01052,Salvi Uber,Auto & Transport,Noida,Tier3,1
+MER01053,Verma College,Education,Amritsar,Tier3,1
+MER01054,Nagar Readymade,Clothing & Fashion,Nashik,Tier2,1
+MER01055,Garde Spa,Salon & Wellness,Vadodara,Tier2,1
+MER01056,Rana Personal Transfer,P2P Transfer,Bhopal,Tier2,0
+MER01057,Sekhon Clinic,Healthcare,Chennai,Tier1,1
+MER01058,Mall Myntra,E-commerce,Jodhpur,Tier3,1
+MER01059,Oza Ola,Auto & Transport,Hyderabad,Tier1,1
+MER01060,Lanka Tiffin Center,Food & Beverage,Bikaner,Tier3,0
+MER01061,Wable DTH Services,Utilities,Coimbatore,Tier2,1
+MER01062,Mishra Broadband,Utilities,Patna,Tier2,1
+MER01063,Brar Daily Needs,Grocery,Nagpur,Tier2,1
+MER01064,Andra Restaurant,Food & Beverage,Ahmedabad,Tier1,1
+MER01065,Prabhu Juice Corner,Food & Beverage,Bangalore,Tier1,1
+MER01066,Sekhon Rapido,Auto & Transport,Rajkot,Tier3,0
+MER01067,Kapur Diagnostic Lab,Healthcare,Vadodara,Tier2,1
+MER01068,Jha Fuel Station,Fuel,Amritsar,Tier3,1
+MER01069,Gera Coaching Center,Education,Chennai,Tier1,1
+MER01070,Kakar Readymade,Clothing & Fashion,Varanasi,Tier3,1
+MER01071,Deshpande Tech Store,Electronics,Ranchi,Tier2,1
+MER01072,Bhatnagar Lodge,Hotel & Lodging,Vadodara,Tier2,1
+MER01073,Ramakrishnan Zerodha,Investment,Indore,Tier2,1
+MER01074,Shenoy Myntra,E-commerce,Aligarh,Tier3,1
+MER01075,Kulkarni HP Petrol,Fuel,Tiruchirappalli,Tier3,1
+MER01076,Kunda Insurance Co,Insurance,Aurangabad,Tier3,1
+MER01077,Sethi Sweet Shop,Food & Beverage,Kolkata,Tier1,1
+MER01078,Sachdeva Uber,Auto & Transport,Jaipur,Tier2,0
+MER01079,Gupta Pharmacy,Healthcare,Kanpur,Tier2,1
+MER01080,Krish Flipkart,E-commerce,Kanpur,Tier2,1
+MER01081,Lanka Cafe,Food & Beverage,Vadodara,Tier2,1
+MER01082,Chaudhari Tiffin Center,Food & Beverage,Vadodara,Tier2,1
+MER01083,Goda Gadget Shop,Electronics,Chennai,Tier1,1
+MER01084,Kamdar Rapido,Auto & Transport,Aligarh,Tier3,1
+MER01085,Shenoy Hospital,Healthcare,Nashik,Tier2,1
+MER01086,Ram Nykaa,E-commerce,Mysore,Tier3,1
+MER01087,Chand Friend Transfer,P2P Transfer,Coimbatore,Tier2,1
+MER01088,Nigam Coaching Center,Education,Bhopal,Tier2,1
+MER01089,Narayanan Rapido,Auto & Transport,Visakhapatnam,Tier2,1
+MER01090,Lal Broadband,Utilities,Jaipur,Tier2,1
+MER01091,Tandon Hotel,Hotel & Lodging,Allahabad,Tier3,1
+MER01092,Sethi Properties,Rent,Jaipur,Tier2,1
+MER01093,Agarwal Friend Transfer,P2P Transfer,Nagpur,Tier2,1
+MER01094,Reddy Bus Service,Travel,Bikaner,Tier3,1
+MER01095,Deshpande Service Apartment,Hotel & Lodging,Hyderabad,Tier1,1
+MER01096,Radhakrishnan Garments,Clothing & Fashion,Guwahati,Tier3,1
+MER01097,Sachdeva Auto Rickshaw,Auto & Transport,Kolkata,Tier1,1
+MER01098,Doctor Diagnostic Lab,Healthcare,Kolkata,Tier1,1
+MER01099,Shetty Academy,Education,Visakhapatnam,Tier2,1
+MER01100,Bhargava Multiplex,Entertainment,Chennai,Tier1,1
+MER01101,Mital College,Education,Bangalore,Tier1,1
+MER01102,Shan Family Transfer,P2P Transfer,Rajkot,Tier3,1
+MER01103,Dyal Textile,Clothing & Fashion,Kanpur,Tier2,1
+MER01104,Bhatt Snapdeal,E-commerce,Bangalore,Tier1,0
+MER01105,Kumar Fresh Mart,Grocery,Visakhapatnam,Tier2,1
+MER01106,Bir Appliances,Electronics,Rajkot,Tier3,1
+MER01107,Sridhar Diagnostic Lab,Healthcare,Bangalore,Tier1,1
+MER01108,Raval Daily Needs,Grocery,Kolkata,Tier1,1
+MER01109,Rajagopalan Event,Entertainment,Ahmedabad,Tier1,1
+MER01110,Mallick Flipkart,E-commerce,Indore,Tier2,1
+MER01111,Rai Fresh Mart,Grocery,Hyderabad,Tier1,1
+MER01112,Bains Pharmacy,Healthcare,Patna,Tier2,1
+MER01113,Swaminathan Tiffin Center,Food & Beverage,Kanpur,Tier2,1
+MER01114,Chadha Restaurant,Food & Beverage,Jaipur,Tier2,1
+MER01115,Prasad SIP Payment,Investment,Madurai,Tier2,1
+MER01116,Iyengar Kirana Store,Grocery,Jaipur,Tier2,1
+MER01117,Sheth Daily Needs,Grocery,Kanpur,Tier2,1
+MER01118,Chaudhari Apartments,Rent,Ahmedabad,Tier1,1
+MER01119,Kaul General Store,Grocery,Delhi,Tier1,1
+MER01120,Bhatnagar Clinic,Healthcare,Pune,Tier1,1
+MER01121,Rao Tiffin Center,Food & Beverage,Kolkata,Tier1,0
+MER01122,Lanka Readymade,Clothing & Fashion,Kanpur,Tier2,1
+MER01123,Chandran Cafe,Food & Beverage,Jaipur,Tier2,1
+MER01124,Sharma Supermart,Grocery,Hyderabad,Tier1,1
+MER01125,Deol Pharmacy,Healthcare,Surat,Tier2,0
+MER01126,Jain Lodge,Hotel & Lodging,Hyderabad,Tier1,1
+MER01127,Dugal Mobile Store,Electronics,Indore,Tier2,1
+MER01128,Narain Tuition,Education,Delhi,Tier1,1
+MER01129,Mital Residency,Rent,Pune,Tier1,1
+MER01130,Deol Cafe,Food & Beverage,Faridabad,Tier3,0
+MER01131,Srivastava Medical Store,Healthcare,Jabalpur,Tier3,1
+MER01132,Wable Restaurant,Food & Beverage,Varanasi,Tier3,1
+MER01133,Chaudry Kirana Store,Grocery,Indore,Tier2,1
+MER01134,Rajan Residency,Rent,Bhopal,Tier2,1
+MER01135,Basak Inn,Hotel & Lodging,Mumbai,Tier1,1
+MER01136,Minhas Uber,Auto & Transport,Chennai,Tier1,1
+MER01137,Divan Clinic,Healthcare,Chennai,Tier1,1
+MER01138,Sharma Friend Transfer,P2P Transfer,Coimbatore,Tier2,1
+MER01139,Raval Restaurant,Food & Beverage,Vadodara,Tier2,1
+MER01140,Bhandari Medical Store,Healthcare,Nagpur,Tier2,1
+MER01141,Balasubramanian Apartments,Rent,Madurai,Tier2,0
+MER01142,Parsa Biryani House,Food & Beverage,Coimbatore,Tier2,1
+MER01143,Barman Metro Card,Auto & Transport,Bangalore,Tier1,1
+MER01144,Dixit Myntra,E-commerce,Nashik,Tier2,1
+MER01145,Thaker Lodge,Hotel & Lodging,Mumbai,Tier1,1
+MER01146,Jaggi Pharmacy,Healthcare,Kolkata,Tier1,0
+MER01147,Borra Textile,Clothing & Fashion,Noida,Tier3,1
+MER01148,Misra College,Education,Jaipur,Tier2,1
+MER01149,Dhar Diagnostic Lab,Healthcare,Pune,Tier1,1
+MER01150,Garg Gym,Salon & Wellness,Visakhapatnam,Tier2,1
+MER01151,Narang Garments,Clothing & Fashion,Mumbai,Tier1,1
+MER01152,Agate Railway Booking,Travel,Mumbai,Tier1,1
+MER01153,Chatterjee Auto Rickshaw,Auto & Transport,Vadodara,Tier2,1
+MER01154,Raman Clinic,Healthcare,Mumbai,Tier1,1
+MER01155,Chaudhry Petrol Pump,Fuel,Madurai,Tier2,1
+MER01156,Narain Uber,Auto & Transport,Hyderabad,Tier1,1
+MER01157,Gade Broadband,Utilities,Delhi,Tier1,1
+MER01158,Kant General Store,Grocery,Visakhapatnam,Tier2,1
+MER01159,Ravel Supermart,Grocery,Mumbai,Tier1,1
+MER01160,Datta Flipkart,E-commerce,Delhi,Tier1,0
+MER01161,Dhaliwal School Fees,Education,Pune,Tier1,1
+MER01162,Devan Personal Transfer,P2P Transfer,Pune,Tier1,1
+MER01163,Batra Supermart,Grocery,Coimbatore,Tier2,1
+MER01164,Cheema Flipkart,E-commerce,Kolkata,Tier1,0
+MER01165,Natt Fresh Mart,Grocery,Agra,Tier2,1
+MER01166,Bir Family Transfer,P2P Transfer,Vadodara,Tier2,1
+MER01167,Chhabra Service Apartment,Hotel & Lodging,Pune,Tier1,1
+MER01168,Wagle Ola,Auto & Transport,Ranchi,Tier2,1
+MER01169,Baral Cinema,Entertainment,Aurangabad,Tier3,0
+MER01170,Ganesan Motor Insurance,Insurance,Ahmedabad,Tier1,1
+MER01171,Ratti Cab Service,Travel,Pune,Tier1,1
+MER01172,Raja Supermart,Grocery,Madurai,Tier2,1
+MER01173,Dave Groww,Investment,Chennai,Tier1,1
+MER01174,Mital College,Education,Ghaziabad,Tier3,1
+MER01175,Sengupta Tiffin Center,Food & Beverage,Mysore,Tier3,0
+MER01176,Rattan DTH Services,Utilities,Ahmedabad,Tier1,1
+MER01177,Kuruvilla Hotel,Hotel & Lodging,Bikaner,Tier3,1
+MER01178,Gera Cinema,Entertainment,Madurai,Tier2,1
+MER01179,Konda Cafe,Food & Beverage,Ranchi,Tier2,1
+MER01180,Srinivas Gym,Salon & Wellness,Faridabad,Tier3,1
+MER01181,Gala Service Apartment,Hotel & Lodging,Vadodara,Tier2,1
+MER01182,Sarma Kirana Store,Grocery,Jaipur,Tier2,1
+MER01183,Kakar Diagnostic Lab,Healthcare,Kolkata,Tier1,1
+MER01184,Chahal Medical Store,Healthcare,Noida,Tier3,1
+MER01185,Trivedi Juice Corner,Food & Beverage,Noida,Tier3,1
+MER01186,Peri OTT Platform,Entertainment,Bangalore,Tier1,1
+MER01187,Mutti Fresh Mart,Grocery,Chandigarh,Tier3,1
+MER01188,Iyer Groww,Investment,Bangalore,Tier1,1
+MER01189,Warrior Snapdeal,E-commerce,Delhi,Tier1,1
+MER01190,Choudhury Gym,Salon & Wellness,Bareilly,Tier3,1
+MER01191,Virk Health Insurance,Insurance,Jaipur,Tier2,1
+MER01192,Shroff Friend Transfer,P2P Transfer,Jodhpur,Tier3,1
+MER01193,Borah Supermart,Grocery,Pune,Tier1,1
+MER01194,Wable Coaching Center,Education,Pune,Tier1,0
+MER01195,Bhatti Apartments,Rent,Bangalore,Tier1,1
+MER01196,Chaudhari Snapdeal,E-commerce,Mysore,Tier3,0
+MER01197,Badami Biryani House,Food & Beverage,Ahmedabad,Tier1,1
+MER01198,Badami Metro Card,Auto & Transport,Faridabad,Tier3,1
+MER01199,Krishna Tuition,Education,Chennai,Tier1,1
+MER01200,Kunda Cinema,Entertainment,Patna,Tier2,1
+MER01201,Rama Zerodha,Investment,Visakhapatnam,Tier2,1
+MER01202,Tak General Store,Grocery,Kanpur,Tier2,1
+MER01203,Bava Cafe,Food & Beverage,Delhi,Tier1,1
+MER01204,Pai Textile,Clothing & Fashion,Bhopal,Tier2,1
+MER01205,Mahal Ola,Auto & Transport,Lucknow,Tier2,1
+MER01206,Sarkar BPCL Outlet,Fuel,Nashik,Tier2,1
+MER01207,Biswas BPCL Outlet,Fuel,Coimbatore,Tier2,1
+MER01208,Sanghvi Mutual Fund,Investment,Meerut,Tier3,1
+MER01209,Sule Water Supply,Utilities,Patna,Tier2,1
+MER01210,Dayal Broadband,Utilities,Agra,Tier2,1
+MER01211,Ravi Sweet Shop,Food & Beverage,Pune,Tier1,1
+MER01212,Dada Ola,Auto & Transport,Delhi,Tier1,1
+MER01213,Chakrabarti Inn,Hotel & Lodging,Chennai,Tier1,1
+MER01214,Kibe HP Petrol,Fuel,Ahmedabad,Tier1,1
+MER01215,Gandhi Meesho,E-commerce,Nagpur,Tier2,1
+MER01216,Nori Policy Bazaar,Insurance,Madurai,Tier2,1
+MER01217,Din Housing,Rent,Bangalore,Tier1,1
+MER01218,Bhandari Lodge,Hotel & Lodging,Delhi,Tier1,1
+MER01219,Kale Supermart,Grocery,Lucknow,Tier2,1
+MER01220,Rajan Textile,Clothing & Fashion,Patna,Tier2,1
+MER01221,Guha Electric Board,Utilities,Nashik,Tier2,1
+MER01222,Dua Nykaa,E-commerce,Pune,Tier1,1
+MER01223,Rau Supermart,Grocery,Kanpur,Tier2,1
+MER01224,Dara Tiffin Center,Food & Beverage,Bangalore,Tier1,1
+MER01225,Sundaram Stock Broker,Investment,Ahmedabad,Tier1,1
+MER01226,Tailor Myntra,E-commerce,Surat,Tier2,1
+MER01227,Sangha Clinic,Healthcare,Kolkata,Tier1,1
+MER01228,Kaul General Store,Grocery,Chennai,Tier1,1
+MER01229,Singhal Metro Card,Auto & Transport,Delhi,Tier1,1
+MER01230,Raj Auto Rickshaw,Auto & Transport,Aligarh,Tier3,1
+MER01231,Kurian Flipkart,E-commerce,Bangalore,Tier1,1
+MER01232,Saraf Cafe,Food & Beverage,Jabalpur,Tier3,1
+MER01233,Kunda Policy Bazaar,Insurance,Agra,Tier2,1
+MER01234,Raj Ola,Auto & Transport,Hyderabad,Tier1,1
+MER01235,Bir Academy,Education,Bangalore,Tier1,1
+MER01236,Bhavsar Myntra,E-commerce,Coimbatore,Tier2,1
+MER01237,Issac Inn,Hotel & Lodging,Kanpur,Tier2,1
+MER01238,Ramesh Guest House,Hotel & Lodging,Ranchi,Tier2,0
+MER01239,Swaminathan Family Transfer,P2P Transfer,Hyderabad,Tier1,1
+MER01240,Lalla Tiffin Center,Food & Beverage,Hyderabad,Tier1,1
+MER01241,Sane Friend Transfer,P2P Transfer,Coimbatore,Tier2,1
+MER01242,Oza Diagnostic Lab,Healthcare,Delhi,Tier1,1
+MER01243,Goel Gaming Zone,Entertainment,Coimbatore,Tier2,1
+MER01244,Wable Mobile Store,Electronics,Pune,Tier1,1
+MER01245,Panchal Friend Transfer,P2P Transfer,Delhi,Tier1,0
+MER01246,Das Zerodha,Investment,Tiruchirappalli,Tier3,1
+MER01247,Balasubramanian Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER01248,Dhaliwal General Store,Grocery,Jaipur,Tier2,1
+MER01249,Das Uber,Auto & Transport,Chennai,Tier1,0
+MER01250,Bir Flipkart,E-commerce,Nashik,Tier2,1
+MER01251,Manne Housing,Rent,Delhi,Tier1,1
+MER01252,Parsa Friend Transfer,P2P Transfer,Delhi,Tier1,1
+MER01253,Amble Realty,Rent,Bareilly,Tier3,1
+MER01254,D’Alia Snapdeal,E-commerce,Nagpur,Tier2,1
+MER01255,Dhar Juice Corner,Food & Beverage,Lucknow,Tier2,1
+MER01256,Warrior Supermart,Grocery,Patna,Tier2,1
+MER01257,Dar Tiffin Center,Food & Beverage,Amritsar,Tier3,1
+MER01258,Lall Inn,Hotel & Lodging,Chennai,Tier1,1
+MER01259,Prabhu Meesho,E-commerce,Indore,Tier2,1
+MER01260,Madan General Store,Grocery,Jaipur,Tier2,1
+MER01261,Koshy Pharmacy,Healthcare,Jodhpur,Tier3,0
+MER01262,Wali OTT Platform,Entertainment,Bhopal,Tier2,1
+MER01263,Tiwari Fresh Mart,Grocery,Delhi,Tier1,1
+MER01264,Balay Bus Service,Travel,Rajkot,Tier3,1
+MER01265,Chakrabarti Electronics,Electronics,Kolkata,Tier1,1
+MER01266,Pillai Textile,Clothing & Fashion,Patna,Tier2,1
+MER01267,Oommen Nykaa,E-commerce,Madurai,Tier2,1
+MER01268,Date Petrol Pump,Fuel,Coimbatore,Tier2,1
+MER01269,Saini Biryani House,Food & Beverage,Ranchi,Tier2,1
+MER01270,Varughese Dhaba,Food & Beverage,Amritsar,Tier3,1
+MER01271,Peri Academy,Education,Hyderabad,Tier1,1
+MER01272,Sabharwal Event,Entertainment,Chennai,Tier1,1
+MER01273,Dutta Railway Booking,Travel,Kolkata,Tier1,1
+MER01274,Balakrishnan Inn,Hotel & Lodging,Jabalpur,Tier3,1
+MER01275,Sem Rapido,Auto & Transport,Aurangabad,Tier3,1
+MER01276,Kashyap Fashion Store,Clothing & Fashion,Ranchi,Tier2,1
+MER01277,Bhasin College,Education,Mumbai,Tier1,1
+MER01278,Minhas Fresh Mart,Grocery,Chennai,Tier1,1
+MER01279,Nagar Friend Transfer,P2P Transfer,Pune,Tier1,1
+MER01280,Bora Fresh Mart,Grocery,Vadodara,Tier2,1
+MER01281,Dhillon Rapido,Auto & Transport,Nagpur,Tier2,1
+MER01282,Sabharwal Coaching Center,Education,Pune,Tier1,1
+MER01283,Prashad Daily Needs,Grocery,Ghaziabad,Tier3,1
+MER01284,Purohit Guest House,Hotel & Lodging,Nagpur,Tier2,1
+MER01285,Hora Insurance Co,Insurance,Varanasi,Tier3,1
+MER01286,Deo Clinic,Healthcare,Chennai,Tier1,1
+MER01287,Borah Nykaa,E-commerce,Madurai,Tier2,1
+MER01288,Manda Supermart,Grocery,Kolkata,Tier1,0
+MER01289,Mukhopadhyay Pharmacy,Healthcare,Mumbai,Tier1,1
+MER01290,Krish Myntra,E-commerce,Moradabad,Tier3,1
+MER01291,Gola Bus Service,Travel,Hyderabad,Tier1,1
+MER01292,Padmanabhan Airlines,Travel,Ahmedabad,Tier1,1
+MER01293,Mammen Diagnostic Lab,Healthcare,Jaipur,Tier2,1
+MER01294,Malhotra Auto Rickshaw,Auto & Transport,Chennai,Tier1,1
+MER01295,Issac Airlines,Travel,Jaipur,Tier2,1
+MER01296,Narula Petrol Pump,Fuel,Bangalore,Tier1,1
+MER01297,Agarwal Garments,Clothing & Fashion,Kanpur,Tier2,1
+MER01298,Choudhury Dhaba,Food & Beverage,Lucknow,Tier2,1
+MER01299,Sanghvi Tuition,Education,Jaipur,Tier2,1
+MER01300,Keer Realty,Rent,Nagpur,Tier2,1
+MER01301,Sidhu Gas Agency,Utilities,Gorakhpur,Tier3,1
+MER01302,Kibe Cafe,Food & Beverage,Guwahati,Tier3,1
+MER01303,Borra School Fees,Education,Patna,Tier2,0
+MER01304,Chada Amazon,E-commerce,Allahabad,Tier3,1
+MER01305,Dass Nykaa,E-commerce,Delhi,Tier1,1
+MER01306,Kadakia Housing,Rent,Mysore,Tier3,1
+MER01307,Barad Family Transfer,P2P Transfer,Meerut,Tier3,1
+MER01308,Khare LIC,Insurance,Surat,Tier2,0
+MER01309,Bains Mobile Store,Electronics,Kolkata,Tier1,1
+MER01310,Bakshi Gas Agency,Utilities,Hyderabad,Tier1,1
+MER01311,Raval Biryani House,Food & Beverage,Ahmedabad,Tier1,1
+MER01312,Dutta Petrol Pump,Fuel,Pune,Tier1,1
+MER01313,Purohit Properties,Rent,Nagpur,Tier2,1
+MER01314,Kale Gaming Zone,Entertainment,Bangalore,Tier1,1
+MER01315,Taneja Cab Service,Travel,Bangalore,Tier1,1
+MER01316,Koshy Water Supply,Utilities,Indore,Tier2,1
+MER01317,Gokhale General Store,Grocery,Agra,Tier2,1
+MER01318,Master Petrol Pump,Fuel,Faridabad,Tier3,1
+MER01319,Mand Properties,Rent,Visakhapatnam,Tier2,1
+MER01320,Buch Metro Card,Auto & Transport,Kolkata,Tier1,1
+MER01321,Biswas Electronics,Electronics,Vadodara,Tier2,1
+MER01322,Bajwa Restaurant,Food & Beverage,Chennai,Tier1,1
+MER01323,D’Alia Guest House,Hotel & Lodging,Vadodara,Tier2,1
+MER01324,Hayer Cab Service,Travel,Indore,Tier2,1
+MER01325,Anand Ola,Auto & Transport,Bhopal,Tier2,1
+MER01326,Jaggi Juice Corner,Food & Beverage,Vadodara,Tier2,1
+MER01327,Vasa Metro Card,Auto & Transport,Ranchi,Tier2,1
+MER01328,Sheth Nykaa,E-commerce,Chennai,Tier1,1
+MER01329,Warrior Ola,Auto & Transport,Mumbai,Tier1,1
+MER01330,Bala Service Apartment,Hotel & Lodging,Coimbatore,Tier2,1
+MER01331,Lalla Juice Corner,Food & Beverage,Ahmedabad,Tier1,1
+MER01332,Dugar Gym,Salon & Wellness,Meerut,Tier3,1
+MER01333,Sachdev School Fees,Education,Ahmedabad,Tier1,1
+MER01334,Lata College,Education,Hyderabad,Tier1,1
+MER01335,Mane Garments,Clothing & Fashion,Patna,Tier2,0
+MER01336,Rao Electronics,Electronics,Delhi,Tier1,1
+MER01337,Rau Gas Agency,Utilities,Delhi,Tier1,1
+MER01338,Brahmbhatt Nykaa,E-commerce,Kolkata,Tier1,1
+MER01339,Sarin Apartments,Rent,Meerut,Tier3,1
+MER01340,Barad Inn,Hotel & Lodging,Amritsar,Tier3,0
+MER01341,Kalla Water Supply,Utilities,Gorakhpur,Tier3,1
+MER01342,Kata Bus Service,Travel,Delhi,Tier1,1
+MER01343,Kade Service Apartment,Hotel & Lodging,Kanpur,Tier2,1
+MER01344,Swaminathan DTH Services,Utilities,Lucknow,Tier2,1
+MER01345,Mittal Apartments,Rent,Patna,Tier2,1
+MER01346,Devi Garments,Clothing & Fashion,Amritsar,Tier3,1
+MER01347,Date Gaming Zone,Entertainment,Nagpur,Tier2,1
+MER01348,Pandey Indian Oil,Fuel,Kolkata,Tier1,1
+MER01349,Mangal Guest House,Hotel & Lodging,Mumbai,Tier1,1
+MER01350,Banerjee Guest House,Hotel & Lodging,Pune,Tier1,1
+MER01351,Saha Gadget Shop,Electronics,Vadodara,Tier2,1
+MER01352,Sama Clinic,Healthcare,Visakhapatnam,Tier2,1
+MER01353,Setty Cafe,Food & Beverage,Coimbatore,Tier2,1
+MER01354,Reddy Myntra,E-commerce,Ghaziabad,Tier3,1
+MER01355,Deshpande Insurance Co,Insurance,Tiruchirappalli,Tier3,1
+MER01356,Chowdhury Boutique,Clothing & Fashion,Hyderabad,Tier1,1
+MER01357,Maharaj Cafe,Food & Beverage,Kolkata,Tier1,1
+MER01358,Hari Biryani House,Food & Beverage,Delhi,Tier1,1
+MER01359,Singh Snapdeal,E-commerce,Coimbatore,Tier2,1
+MER01360,Gaba Biryani House,Food & Beverage,Aurangabad,Tier3,1
+MER01361,Handa Meesho,E-commerce,Gorakhpur,Tier3,1
+MER01362,Prasad Railway Booking,Travel,Surat,Tier2,1
+MER01363,Divan Academy,Education,Patna,Tier2,1
+MER01364,Parekh Motor Insurance,Insurance,Ahmedabad,Tier1,1
+MER01365,Kar Tech Store,Electronics,Meerut,Tier3,1
+MER01366,Bora OTT Platform,Entertainment,Hyderabad,Tier1,1
+MER01367,Sule Sweet Shop,Food & Beverage,Coimbatore,Tier2,1
+MER01368,Doshi Motor Insurance,Insurance,Agra,Tier2,1
+MER01369,Bava Clinic,Healthcare,Mumbai,Tier1,1
+MER01370,Pingle Flipkart,E-commerce,Bangalore,Tier1,1
+MER01371,Dutt Fashion Store,Clothing & Fashion,Kolkata,Tier1,1
+MER01372,Dewan Tiffin Center,Food & Beverage,Aurangabad,Tier3,1
+MER01373,Sant Groww,Investment,Nagpur,Tier2,1
+MER01374,Tiwari Metro Card,Auto & Transport,Vadodara,Tier2,1
+MER01375,Deo Nykaa,E-commerce,Chennai,Tier1,0
+MER01376,Sha Supermart,Grocery,Guwahati,Tier3,1
+MER01377,Raju Kirana Store,Grocery,Agra,Tier2,1
+MER01378,Malhotra Hotel,Hotel & Lodging,Bareilly,Tier3,0
+MER01379,Mallick Amazon,E-commerce,Ghaziabad,Tier3,1
+MER01380,Bhat Myntra,E-commerce,Patna,Tier2,1
+MER01381,Bhasin Readymade,Clothing & Fashion,Allahabad,Tier3,1
+MER01382,Sen Cab Service,Travel,Madurai,Tier2,1
+MER01383,Rai Indian Oil,Fuel,Ghaziabad,Tier3,1
+MER01384,Prasad General Store,Grocery,Kolkata,Tier1,1
+MER01385,Kurian Biryani House,Food & Beverage,Nagpur,Tier2,1
+MER01386,Khurana Wellness Center,Salon & Wellness,Delhi,Tier1,1
+MER01387,Malhotra Snapdeal,E-commerce,Jaipur,Tier2,1
+MER01388,Dasgupta Petrol Pump,Fuel,Lucknow,Tier2,1
+MER01389,Atwal Salon,Salon & Wellness,Mumbai,Tier1,1
+MER01390,Gopal Travel Agency,Travel,Allahabad,Tier3,1
+MER01391,Bora Auto Rickshaw,Auto & Transport,Agra,Tier2,1
+MER01392,Kaur Tiffin Center,Food & Beverage,Bangalore,Tier1,0
+MER01393,Zachariah Electric Board,Utilities,Nashik,Tier2,1
+MER01394,Kuruvilla Amazon,E-commerce,Lucknow,Tier2,1
+MER01395,Shan Cafe,Food & Beverage,Bhopal,Tier2,1
+MER01396,Raman Readymade,Clothing & Fashion,Surat,Tier2,1
+MER01397,Jani Water Supply,Utilities,Chennai,Tier1,1
+MER01398,Bhatt Coaching Center,Education,Aurangabad,Tier3,1
+MER01399,Handa Fashion Store,Clothing & Fashion,Bareilly,Tier3,1
+MER01400,Sarraf Fresh Mart,Grocery,Pune,Tier1,1
+MER01401,Reddy Multiplex,Entertainment,Jaipur,Tier2,1
+MER01402,Deshmukh Fuel Station,Fuel,Jabalpur,Tier3,1
+MER01403,Raghavan Friend Transfer,P2P Transfer,Nagpur,Tier2,1
+MER01404,Mangat Health Insurance,Insurance,Kolkata,Tier1,1
+MER01405,Bal Lodge,Hotel & Lodging,Ahmedabad,Tier1,1
+MER01406,Sood Nykaa,E-commerce,Hyderabad,Tier1,1
+MER01407,Varty SIP Payment,Investment,Delhi,Tier1,1
+MER01408,Tandon Auto Rickshaw,Auto & Transport,Lucknow,Tier2,1
+MER01409,Bose Electric Board,Utilities,Agra,Tier2,1
+MER01410,Venkataraman Zerodha,Investment,Chennai,Tier1,1
+MER01411,Nigam Juice Corner,Food & Beverage,Vadodara,Tier2,1
+MER01412,Badami Tuition,Education,Kolkata,Tier1,1
+MER01413,Chaudhari Gym,Salon & Wellness,Mumbai,Tier1,1
+MER01414,Dara Biryani House,Food & Beverage,Bhopal,Tier2,1
+MER01415,Vig Rapido,Auto & Transport,Kolkata,Tier1,1
+MER01416,Bath Realty,Rent,Agra,Tier2,1
+MER01417,Varty Metro Card,Auto & Transport,Lucknow,Tier2,0
+MER01418,Venkatesh Juice Corner,Food & Beverage,Madurai,Tier2,1
+MER01419,Solanki HP Petrol,Fuel,Kolkata,Tier1,1
+MER01420,Subramanian Auto Rickshaw,Auto & Transport,Aurangabad,Tier3,1
+MER01421,Kapadia Gas Agency,Utilities,Lucknow,Tier2,1
+MER01422,Rao Readymade,Clothing & Fashion,Pune,Tier1,1
+MER01423,Reddy HP Petrol,Fuel,Aligarh,Tier3,1
+MER01424,Walia Supermart,Grocery,Indore,Tier2,1
+MER01425,Ramakrishnan Boutique,Clothing & Fashion,Patna,Tier2,1
+MER01426,Bhatt Groww,Investment,Tiruchirappalli,Tier3,1
+MER01427,Yadav Mutual Fund,Investment,Nagpur,Tier2,1
+MER01428,Master College,Education,Hyderabad,Tier1,0
+MER01429,Dani Travel Agency,Travel,Allahabad,Tier3,1
+MER01430,Bhattacharyya Apartments,Rent,Lucknow,Tier2,0
+MER01431,Dugal Residency,Rent,Lucknow,Tier2,1
+MER01432,Bora Friend Transfer,P2P Transfer,Bikaner,Tier3,1
+MER01433,Singh Diagnostic Lab,Healthcare,Pune,Tier1,0
+MER01434,Raghavan Electronics,Electronics,Hyderabad,Tier1,1
+MER01435,Dash Mutual Fund,Investment,Bangalore,Tier1,1
+MER01436,Mann Broadband,Utilities,Guwahati,Tier3,0
+MER01437,Panchal Fashion Store,Clothing & Fashion,Surat,Tier2,1
+MER01438,Ramakrishnan Snapdeal,E-commerce,Agra,Tier2,1
+MER01439,Arora Friend Transfer,P2P Transfer,Nagpur,Tier2,1
+MER01440,Mane Family Transfer,P2P Transfer,Lucknow,Tier2,1
+MER01441,Sama Rapido,Auto & Transport,Nagpur,Tier2,1
+MER01442,Patil DTH Services,Utilities,Hyderabad,Tier1,1
+MER01443,Brar Family Transfer,P2P Transfer,Patna,Tier2,1
+MER01444,Basu Gaming Zone,Entertainment,Vadodara,Tier2,1
+MER01445,Grover Dhaba,Food & Beverage,Hyderabad,Tier1,1
+MER01446,Swamy Dhaba,Food & Beverage,Allahabad,Tier3,1
+MER01447,Balan OTT Platform,Entertainment,Madurai,Tier2,1
+MER01448,Shanker Bus Service,Travel,Visakhapatnam,Tier2,1
+MER01449,Singhal OTT Platform,Entertainment,Ahmedabad,Tier1,0
+MER01450,Khatri Sweet Shop,Food & Beverage,Hyderabad,Tier1,1
+MER01451,Yogi Dhaba,Food & Beverage,Coimbatore,Tier2,1
+MER01452,Bahri Ola,Auto & Transport,Hyderabad,Tier1,1
+MER01453,Bains Supermart,Grocery,Mumbai,Tier1,1
+MER01454,Borah Medical Store,Healthcare,Nashik,Tier2,1
+MER01455,Baral Myntra,E-commerce,Ranchi,Tier2,1
+MER01456,Sastry Lodge,Hotel & Lodging,Delhi,Tier1,1
+MER01457,Seth Mutual Fund,Investment,Kanpur,Tier2,1
+MER01458,Kari Restaurant,Food & Beverage,Nagpur,Tier2,1
+MER01459,Hayer Boutique,Clothing & Fashion,Coimbatore,Tier2,1
+MER01460,Keer Petrol Pump,Fuel,Nagpur,Tier2,1
+MER01461,Bandi Restaurant,Food & Beverage,Kanpur,Tier2,1
+MER01462,Dalal Auto Rickshaw,Auto & Transport,Lucknow,Tier2,1
+MER01463,Sanghvi LIC,Insurance,Ahmedabad,Tier1,1
+MER01464,Goel Stock Broker,Investment,Kanpur,Tier2,1
+MER01465,Bedi Restaurant,Food & Beverage,Lucknow,Tier2,1
+MER01466,Narasimhan Petrol Pump,Fuel,Indore,Tier2,1
+MER01467,Krish Personal Transfer,P2P Transfer,Nagpur,Tier2,1
+MER01468,Kota Appliances,Electronics,Kanpur,Tier2,0
+MER01469,Manda Mutual Fund,Investment,Hyderabad,Tier1,1
+MER01470,Naik Lodge,Hotel & Lodging,Bhopal,Tier2,1
+MER01471,Verma HP Petrol,Fuel,Pune,Tier1,1
+MER01472,Dutt Fresh Mart,Grocery,Kolkata,Tier1,1
+MER01473,Behl Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER01474,Banerjee Housing,Rent,Coimbatore,Tier2,1
+MER01475,Vora Tiffin Center,Food & Beverage,Jaipur,Tier2,0
+MER01476,Comar Dhaba,Food & Beverage,Hyderabad,Tier1,1
+MER01477,Goyal Flipkart,E-commerce,Kanpur,Tier2,1
+MER01478,Banik Mutual Fund,Investment,Madurai,Tier2,1
+MER01479,Roy Fresh Mart,Grocery,Ahmedabad,Tier1,1
+MER01480,Gala Personal Transfer,P2P Transfer,Visakhapatnam,Tier2,1
+MER01481,Upadhyay Inn,Hotel & Lodging,Pune,Tier1,1
+MER01482,Rajan Cinema,Entertainment,Hyderabad,Tier1,1
+MER01483,Dewan Guest House,Hotel & Lodging,Gorakhpur,Tier3,1
+MER01484,Mistry Rapido,Auto & Transport,Moradabad,Tier3,1
+MER01485,Kunda Rapido,Auto & Transport,Delhi,Tier1,0
+MER01486,Sane Garments,Clothing & Fashion,Ahmedabad,Tier1,1
+MER01487,Yohannan Broadband,Utilities,Surat,Tier2,1
+MER01488,Raman Airlines,Travel,Hyderabad,Tier1,1
+MER01489,Shukla Readymade,Clothing & Fashion,Indore,Tier2,0
+MER01490,Ganesan Snapdeal,E-commerce,Ahmedabad,Tier1,1
+MER01491,Jha Travel Agency,Travel,Surat,Tier2,1
+MER01492,Srinivasan Textile,Clothing & Fashion,Delhi,Tier1,1
+MER01493,Ramanathan Petrol Pump,Fuel,Jaipur,Tier2,1
+MER01494,Bhalla Broadband,Utilities,Jaipur,Tier2,1
+MER01495,Deshpande Airlines,Travel,Mumbai,Tier1,1
+MER01496,Mangat Tiffin Center,Food & Beverage,Agra,Tier2,0
+MER01497,Krishnamurthy School Fees,Education,Jaipur,Tier2,1
+MER01498,Ray Snapdeal,E-commerce,Bangalore,Tier1,1
+MER01499,Murty Kirana Store,Grocery,Bangalore,Tier1,1
+MER01500,Bansal Electronics,Electronics,Bhopal,Tier2,1
+MER01501,Bose Indian Oil,Fuel,Delhi,Tier1,1
+MER01502,Chacko Lodge,Hotel & Lodging,Lucknow,Tier2,1
+MER01503,Korpal Dhaba,Food & Beverage,Hyderabad,Tier1,1
+MER01504,Mohan Family Transfer,P2P Transfer,Mumbai,Tier1,1
+MER01505,Acharya Flipkart,E-commerce,Varanasi,Tier3,1
+MER01506,Kunda Beauty Parlour,Salon & Wellness,Delhi,Tier1,1
+MER01507,Mukhopadhyay Auto Rickshaw,Auto & Transport,Ahmedabad,Tier1,0
+MER01508,Patla Dhaba,Food & Beverage,Vadodara,Tier2,1
+MER01509,Seth Rapido,Auto & Transport,Kolkata,Tier1,1
+MER01510,Atwal Petrol Pump,Fuel,Bhopal,Tier2,1
+MER01511,Bora Nykaa,E-commerce,Jabalpur,Tier3,1
+MER01512,More Gaming Zone,Entertainment,Hyderabad,Tier1,1
+MER01513,Sharma Juice Corner,Food & Beverage,Lucknow,Tier2,1
+MER01514,Pandey Nykaa,E-commerce,Nashik,Tier2,1
+MER01515,Rajagopalan Meesho,E-commerce,Nashik,Tier2,1
+MER01516,Seshadri Service Apartment,Hotel & Lodging,Bhopal,Tier2,1
+MER01517,Ganguly Myntra,E-commerce,Kanpur,Tier2,1
+MER01518,Khare Cab Service,Travel,Moradabad,Tier3,1
+MER01519,Bhatnagar General Store,Grocery,Ahmedabad,Tier1,1
+MER01520,Gaba Metro Card,Auto & Transport,Vadodara,Tier2,1
+MER01521,Kala Sweet Shop,Food & Beverage,Kolkata,Tier1,1
+MER01522,Gokhale Myntra,E-commerce,Vadodara,Tier2,1
+MER01523,Gulati Pharmacy,Healthcare,Varanasi,Tier3,1
+MER01524,Tandon College,Education,Ahmedabad,Tier1,1
+MER01525,Bose Fashion Store,Clothing & Fashion,Hyderabad,Tier1,1
+MER01526,Dubey Myntra,E-commerce,Mumbai,Tier1,1
+MER01527,Khosla BPCL Outlet,Fuel,Ahmedabad,Tier1,1
+MER01528,Swamy Gym,Salon & Wellness,Madurai,Tier2,1
+MER01529,Sengupta OTT Platform,Entertainment,Nagpur,Tier2,1
+MER01530,Pant Gas Agency,Utilities,Pune,Tier1,1
+MER01531,Chadha School Fees,Education,Kanpur,Tier2,1
+MER01532,Seth Dhaba,Food & Beverage,Coimbatore,Tier2,1
+MER01533,Natarajan Salon,Salon & Wellness,Meerut,Tier3,1
+MER01534,Datta Service Apartment,Hotel & Lodging,Chennai,Tier1,1
+MER01535,Khurana Bus Service,Travel,Mumbai,Tier1,1
+MER01536,Mangal Supermart,Grocery,Jaipur,Tier2,1
+MER01537,Pall Kirana Store,Grocery,Bangalore,Tier1,1
+MER01538,Amble Lodge,Hotel & Lodging,Rajkot,Tier3,1
+MER01539,Kapur General Store,Grocery,Hyderabad,Tier1,1
+MER01540,Prashad Ola,Auto & Transport,Delhi,Tier1,1
+MER01541,Kapoor OTT Platform,Entertainment,Delhi,Tier1,1
+MER01542,Korpal General Store,Grocery,Bangalore,Tier1,1
+MER01543,Sawhney Coaching Center,Education,Kolkata,Tier1,1
+MER01544,Gour Sweet Shop,Food & Beverage,Nashik,Tier2,1
+MER01545,Basu Travel Agency,Travel,Bhopal,Tier2,1
+MER01546,Peri Dhaba,Food & Beverage,Jaipur,Tier2,1
+MER01547,Morar Pharmacy,Healthcare,Delhi,Tier1,1
+MER01548,Morar Readymade,Clothing & Fashion,Patna,Tier2,1
+MER01549,Johal Fresh Mart,Grocery,Kolkata,Tier1,1
+MER01550,Sehgal Beauty Parlour,Salon & Wellness,Vadodara,Tier2,1
+MER01551,Parekh Broadband,Utilities,Mumbai,Tier1,0
+MER01552,Batra HP Petrol,Fuel,Surat,Tier2,0
+MER01553,Tripathi Indian Oil,Fuel,Jaipur,Tier2,1
+MER01554,Varkey Indian Oil,Fuel,Mumbai,Tier1,1
+MER01555,Mane Kirana Store,Grocery,Chandigarh,Tier3,1
+MER01556,Lad General Store,Grocery,Hyderabad,Tier1,1
+MER01557,Thaman Service Apartment,Hotel & Lodging,Coimbatore,Tier2,1
+MER01558,Bhatti Fresh Mart,Grocery,Vadodara,Tier2,1
+MER01559,Ahluwalia Friend Transfer,P2P Transfer,Hyderabad,Tier1,1
+MER01560,Mohan Pharmacy,Healthcare,Kolkata,Tier1,1
+MER01561,Setty HP Petrol,Fuel,Pune,Tier1,1
+MER01562,Rege Biryani House,Food & Beverage,Kanpur,Tier2,1
+MER01563,Uppal Diagnostic Lab,Healthcare,Lucknow,Tier2,1
+MER01564,Venkatesh Stock Broker,Investment,Chennai,Tier1,1
+MER01565,Sawhney Hotel,Hotel & Lodging,Hyderabad,Tier1,1
+MER01566,Baral Flipkart,E-commerce,Bangalore,Tier1,1
+MER01567,Minhas Metro Card,Auto & Transport,Lucknow,Tier2,1
+MER01568,Manne Zerodha,Investment,Vadodara,Tier2,1
+MER01569,Khanna Boutique,Clothing & Fashion,Ahmedabad,Tier1,1
+MER01570,Tripathi Sweet Shop,Food & Beverage,Guwahati,Tier3,1
+MER01571,Ratti Appliances,Electronics,Surat,Tier2,1
+MER01572,Rajagopal Cinema,Entertainment,Rajkot,Tier3,1
+MER01573,Shanker Coaching Center,Education,Chennai,Tier1,1
+MER01574,Narasimhan Hotel,Hotel & Lodging,Kolkata,Tier1,1
+MER01575,Hora Academy,Education,Indore,Tier2,1
+MER01576,Sarin OTT Platform,Entertainment,Jabalpur,Tier3,1
+MER01577,Kakar Diagnostic Lab,Healthcare,Surat,Tier2,1
+MER01578,Thaker Policy Bazaar,Insurance,Hyderabad,Tier1,1
+MER01579,Chander HP Petrol,Fuel,Bangalore,Tier1,1
+MER01580,Sunder Sweet Shop,Food & Beverage,Guwahati,Tier3,1
+MER01581,Kanda Mobile Store,Electronics,Bangalore,Tier1,0
+MER01582,Om Fuel Station,Fuel,Jaipur,Tier2,0
+MER01583,Sehgal Daily Needs,Grocery,Vadodara,Tier2,1
+MER01584,Chandran Nykaa,E-commerce,Coimbatore,Tier2,0
+MER01585,Wason Supermart,Grocery,Pune,Tier1,1
+MER01586,Balasubramanian Airlines,Travel,Guwahati,Tier3,1
+MER01587,Kapoor Cinema,Entertainment,Ahmedabad,Tier1,1
+MER01588,Handa Guest House,Hotel & Lodging,Pune,Tier1,1
+MER01589,Tara Water Supply,Utilities,Ahmedabad,Tier1,1
+MER01590,Bava Kirana Store,Grocery,Bhopal,Tier2,1
+MER01591,Raja Kirana Store,Grocery,Visakhapatnam,Tier2,1
+MER01592,Gole Textile,Clothing & Fashion,Lucknow,Tier2,1
+MER01593,Chaudhry Ola,Auto & Transport,Indore,Tier2,1
+MER01594,Garg Family Transfer,P2P Transfer,Coimbatore,Tier2,0
+MER01595,Bansal Tiffin Center,Food & Beverage,Chandigarh,Tier3,1
+MER01596,Datta Petrol Pump,Fuel,Amritsar,Tier3,1
+MER01597,Jha Academy,Education,Mumbai,Tier1,1
+MER01598,Mukherjee Zerodha,Investment,Bangalore,Tier1,1
+MER01599,Edwin Clinic,Healthcare,Indore,Tier2,1
+MER01600,Aurora Guest House,Hotel & Lodging,Coimbatore,Tier2,1
+MER01601,Varkey Clinic,Healthcare,Mysore,Tier3,1
+MER01602,Basu General Store,Grocery,Chennai,Tier1,1
+MER01603,Pandit Readymade,Clothing & Fashion,Moradabad,Tier3,1
+MER01604,Khare Flipkart,E-commerce,Varanasi,Tier3,1
+MER01605,Sengupta Flipkart,E-commerce,Chennai,Tier1,1
+MER01606,Majumdar Spa,Salon & Wellness,Pune,Tier1,1
+MER01607,Dasgupta Rapido,Auto & Transport,Agra,Tier2,1
+MER01608,Kumer Dhaba,Food & Beverage,Pune,Tier1,1
+MER01609,Malhotra Hotel,Hotel & Lodging,Kanpur,Tier2,1
+MER01610,Konda Snapdeal,E-commerce,Agra,Tier2,1
+MER01611,Kota Petrol Pump,Fuel,Pune,Tier1,1
+MER01612,Dayal Snapdeal,E-commerce,Mumbai,Tier1,1
+MER01613,Warrior Appliances,Electronics,Nagpur,Tier2,1
+MER01614,Murty Textile,Clothing & Fashion,Visakhapatnam,Tier2,1
+MER01615,Dass Snapdeal,E-commerce,Kolkata,Tier1,1
+MER01616,Raj Inn,Hotel & Lodging,Allahabad,Tier3,1
+MER01617,Arora Metro Card,Auto & Transport,Kolkata,Tier1,1
+MER01618,Parsa General Store,Grocery,Coimbatore,Tier2,1
+MER01619,Borde Kirana Store,Grocery,Chennai,Tier1,1
+MER01620,Sule Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER01621,Kata Appliances,Electronics,Kolkata,Tier1,1
+MER01622,Narayan Clinic,Healthcare,Guwahati,Tier3,1
+MER01623,Sridhar Beauty Parlour,Salon & Wellness,Meerut,Tier3,0
+MER01624,Barad Motor Insurance,Insurance,Nashik,Tier2,1
+MER01625,Mital Sweet Shop,Food & Beverage,Ranchi,Tier2,1
+MER01626,Dewan Inn,Hotel & Lodging,Mysore,Tier3,1
+MER01627,Thaker Policy Bazaar,Insurance,Chennai,Tier1,1
+MER01628,Sarkar Boutique,Clothing & Fashion,Ahmedabad,Tier1,1
+MER01629,Wali Diagnostic Lab,Healthcare,Indore,Tier2,1
+MER01630,Barad Amazon,E-commerce,Kolkata,Tier1,1
+MER01631,Mand Dhaba,Food & Beverage,Mysore,Tier3,1
+MER01632,Basak Myntra,E-commerce,Amritsar,Tier3,1
+MER01633,Sharma General Store,Grocery,Bhopal,Tier2,1
+MER01634,Sinha Fresh Mart,Grocery,Lucknow,Tier2,1
+MER01635,Palan Tiffin Center,Food & Beverage,Gorakhpur,Tier3,1
+MER01636,Mishra Sweet Shop,Food & Beverage,Delhi,Tier1,1
+MER01637,Varty Indian Oil,Fuel,Mumbai,Tier1,1
+MER01638,Tara Clinic,Healthcare,Chennai,Tier1,1
+MER01639,Kar Tiffin Center,Food & Beverage,Agra,Tier2,1
+MER01640,Kulkarni Kirana Store,Grocery,Mumbai,Tier1,1
+MER01641,Sharma Metro Card,Auto & Transport,Bangalore,Tier1,1
+MER01642,Dugar Medical Store,Healthcare,Ahmedabad,Tier1,1
+MER01643,Nanda Restaurant,Food & Beverage,Bangalore,Tier1,1
+MER01644,Balay Ola,Auto & Transport,Agra,Tier2,1
+MER01645,Golla Flipkart,E-commerce,Madurai,Tier2,1
+MER01646,Misra Cafe,Food & Beverage,Vadodara,Tier2,0
+MER01647,Mand Uber,Auto & Transport,Bikaner,Tier3,1
+MER01648,Oommen Lodge,Hotel & Lodging,Kolkata,Tier1,1
+MER01649,Ranganathan Clinic,Healthcare,Mumbai,Tier1,1
+MER01650,Palla Friend Transfer,P2P Transfer,Allahabad,Tier3,1
+MER01651,Bhagat Dhaba,Food & Beverage,Surat,Tier2,1
+MER01652,Grover Sweet Shop,Food & Beverage,Indore,Tier2,1
+MER01653,Wason Spa,Salon & Wellness,Surat,Tier2,1
+MER01654,Rana Fresh Mart,Grocery,Patna,Tier2,1
+MER01655,Sahota Travel Agency,Travel,Mumbai,Tier1,1
+MER01656,Gokhale Zerodha,Investment,Mumbai,Tier1,1
+MER01657,Sharaf Pharmacy,Healthcare,Mumbai,Tier1,1
+MER01658,Johal Fresh Mart,Grocery,Delhi,Tier1,1
+MER01659,Korpal Appliances,Electronics,Surat,Tier2,1
+MER01660,Baral Hospital,Healthcare,Vadodara,Tier2,1
+MER01661,Johal Sweet Shop,Food & Beverage,Hyderabad,Tier1,1
+MER01662,Bhasin Health Insurance,Insurance,Delhi,Tier1,1
+MER01663,Bahri Gaming Zone,Entertainment,Mumbai,Tier1,1
+MER01664,Nori Cafe,Food & Beverage,Ahmedabad,Tier1,1
+MER01665,Suresh Cab Service,Travel,Mumbai,Tier1,1
+MER01666,Brahmbhatt Health Insurance,Insurance,Faridabad,Tier3,1
+MER01667,Vasa Zerodha,Investment,Ahmedabad,Tier1,1
+MER01668,Soman Clinic,Healthcare,Kanpur,Tier2,1
+MER01669,Murty Fuel Station,Fuel,Hyderabad,Tier1,1
+MER01670,Lall Daily Needs,Grocery,Coimbatore,Tier2,1
+MER01671,Kuruvilla Biryani House,Food & Beverage,Bangalore,Tier1,1
+MER01672,Trivedi Stock Broker,Investment,Nagpur,Tier2,1
+MER01673,Lall Spa,Salon & Wellness,Agra,Tier2,1
+MER01674,Gulati Flipkart,E-commerce,Aurangabad,Tier3,1
+MER01675,Kapur Coaching Center,Education,Mumbai,Tier1,1
+MER01676,Parsa Supermart,Grocery,Ahmedabad,Tier1,1
+MER01677,Parmer Restaurant,Food & Beverage,Nagpur,Tier2,1
+MER01678,Solanki Fresh Mart,Grocery,Patna,Tier2,1
+MER01679,Nadig General Store,Grocery,Bhopal,Tier2,1
+MER01680,Chakrabarti Tuition,Education,Hyderabad,Tier1,1
+MER01681,Joshi Readymade,Clothing & Fashion,Ahmedabad,Tier1,1
+MER01682,Jhaveri Kirana Store,Grocery,Indore,Tier2,1
+MER01683,Palla HP Petrol,Fuel,Bareilly,Tier3,1
+MER01684,Madan Residency,Rent,Nashik,Tier2,1
+MER01685,Baria Medical Store,Healthcare,Mumbai,Tier1,1
+MER01686,Kapadia Fuel Station,Fuel,Delhi,Tier1,1
+MER01687,Ramachandran Rapido,Auto & Transport,Bhopal,Tier2,1
+MER01688,Sagar Biryani House,Food & Beverage,Kanpur,Tier2,1
+MER01689,Bawa Tiffin Center,Food & Beverage,Hyderabad,Tier1,1
+MER01690,Bhatia Zerodha,Investment,Mumbai,Tier1,1
+MER01691,Raj Nykaa,E-commerce,Kanpur,Tier2,1
+MER01692,Lanka Supermart,Grocery,Kolkata,Tier1,1
+MER01693,Tandon Wellness Center,Salon & Wellness,Coimbatore,Tier2,1
+MER01694,Setty Daily Needs,Grocery,Madurai,Tier2,1
+MER01695,Gour Cafe,Food & Beverage,Kolkata,Tier1,0
+MER01696,Chhabra Meesho,E-commerce,Vadodara,Tier2,1
+MER01697,Batta Fresh Mart,Grocery,Chennai,Tier1,1
+MER01698,Pau Pharmacy,Healthcare,Bikaner,Tier3,1
+MER01699,Shenoy Hospital,Healthcare,Nagpur,Tier2,1
+MER01700,Mani Medical Store,Healthcare,Ghaziabad,Tier3,1
+MER01701,Solanki HP Petrol,Fuel,Mysore,Tier3,1
+MER01702,Iyer Biryani House,Food & Beverage,Ahmedabad,Tier1,1
+MER01703,Gupta Fresh Mart,Grocery,Mumbai,Tier1,1
+MER01704,Kala BPCL Outlet,Fuel,Hyderabad,Tier1,1
+MER01705,Morar Fresh Mart,Grocery,Kanpur,Tier2,1
+MER01706,Bhandari Hospital,Healthcare,Kolkata,Tier1,1
+MER01707,Manne Guest House,Hotel & Lodging,Varanasi,Tier3,1
+MER01708,Choudhary Pharmacy,Healthcare,Ranchi,Tier2,1
+MER01709,Narayan Pharmacy,Healthcare,Pune,Tier1,1
+MER01710,Bedi Clinic,Healthcare,Surat,Tier2,1
+MER01711,Chandran Mobile Store,Electronics,Agra,Tier2,0
+MER01712,Kant Cafe,Food & Beverage,Bangalore,Tier1,1
+MER01713,Rama Wellness Center,Salon & Wellness,Pune,Tier1,1
+MER01714,Swamy Petrol Pump,Fuel,Chennai,Tier1,1
+MER01715,Arya Rapido,Auto & Transport,Chennai,Tier1,1
+MER01716,Bhattacharyya Metro Card,Auto & Transport,Moradabad,Tier3,1
+MER01717,Deep Diagnostic Lab,Healthcare,Kanpur,Tier2,1
+MER01718,Sangha Amazon,E-commerce,Hyderabad,Tier1,1
+MER01719,Vig Cafe,Food & Beverage,Ahmedabad,Tier1,1
+MER01720,Dave General Store,Grocery,Hyderabad,Tier1,1
+MER01721,Ravel DTH Services,Utilities,Noida,Tier3,1
+MER01722,Natt Supermart,Grocery,Pune,Tier1,1
+MER01723,Sant Myntra,E-commerce,Jaipur,Tier2,1
+MER01724,Kalita Friend Transfer,P2P Transfer,Agra,Tier2,1
+MER01725,Mody Uber,Auto & Transport,Coimbatore,Tier2,1
+MER01726,Krish Event,Entertainment,Delhi,Tier1,1
+MER01727,Parekh Clinic,Healthcare,Tiruchirappalli,Tier3,1
+MER01728,Rajan Biryani House,Food & Beverage,Patna,Tier2,1
+MER01729,Kanda HP Petrol,Fuel,Varanasi,Tier3,1
+MER01730,Parsa Amazon,E-commerce,Jaipur,Tier2,0
+MER01731,Bhatt Fuel Station,Fuel,Ahmedabad,Tier1,1
+MER01732,Gupta Airlines,Travel,Ghaziabad,Tier3,1
+MER01733,Murty Daily Needs,Grocery,Nagpur,Tier2,1
+MER01734,Samra Uber,Auto & Transport,Chennai,Tier1,1
+MER01735,Nanda Biryani House,Food & Beverage,Ahmedabad,Tier1,1
+MER01736,Contractor Lodge,Hotel & Lodging,Jabalpur,Tier3,1
+MER01737,Minhas Juice Corner,Food & Beverage,Chennai,Tier1,1
+MER01738,Bose Health Insurance,Insurance,Bangalore,Tier1,1
+MER01739,Khalsa Cafe,Food & Beverage,Lucknow,Tier2,0
+MER01740,Mahajan College,Education,Aurangabad,Tier3,1
+MER01741,Pal Daily Needs,Grocery,Chennai,Tier1,1
+MER01742,Viswanathan Multiplex,Entertainment,Vadodara,Tier2,1
+MER01743,Mahajan Textile,Clothing & Fashion,Patna,Tier2,1
+MER01744,Swaminathan Ola,Auto & Transport,Nashik,Tier2,1
+MER01745,Mittal Rapido,Auto & Transport,Kanpur,Tier2,1
+MER01746,Soni Sweet Shop,Food & Beverage,Bangalore,Tier1,1
+MER01747,Mitter Garments,Clothing & Fashion,Vadodara,Tier2,1
+MER01748,Cherian Friend Transfer,P2P Transfer,Pune,Tier1,1
+MER01749,Hayre Diagnostic Lab,Healthcare,Surat,Tier2,1
+MER01750,Iyer Myntra,E-commerce,Kolkata,Tier1,1
+MER01751,Pai Properties,Rent,Hyderabad,Tier1,1
+MER01752,Sheth Clinic,Healthcare,Pune,Tier1,1
+MER01753,Dugar Auto Rickshaw,Auto & Transport,Guwahati,Tier3,1
+MER01754,Kuruvilla Cab Service,Travel,Bangalore,Tier1,1
+MER01755,Rajagopalan Apartments,Rent,Aligarh,Tier3,1
+MER01756,Morar Academy,Education,Ahmedabad,Tier1,1
+MER01757,Raja College,Education,Madurai,Tier2,1
+MER01758,Krishnamurthy Electronics,Electronics,Chennai,Tier1,1
+MER01759,Dar Friend Transfer,P2P Transfer,Chennai,Tier1,1
+MER01760,Bath Nykaa,E-commerce,Lucknow,Tier2,1
+MER01761,Parmer Wellness Center,Salon & Wellness,Aurangabad,Tier3,0
+MER01762,Vig Nykaa,E-commerce,Bangalore,Tier1,1
+MER01763,Bassi Supermart,Grocery,Guwahati,Tier3,1
+MER01764,Murty Electronics,Electronics,Lucknow,Tier2,1
+MER01765,Rama Juice Corner,Food & Beverage,Jabalpur,Tier3,1
+MER01766,Chanda Cafe,Food & Beverage,Bikaner,Tier3,1
+MER01767,Purohit Juice Corner,Food & Beverage,Bhopal,Tier2,1
+MER01768,Dash Family Transfer,P2P Transfer,Bangalore,Tier1,1
+MER01769,Sekhon Airlines,Travel,Chennai,Tier1,1
+MER01770,Mukherjee Gadget Shop,Electronics,Jaipur,Tier2,1
+MER01771,Nagi Kirana Store,Grocery,Mumbai,Tier1,1
+MER01772,Babu Broadband,Utilities,Aurangabad,Tier3,1
+MER01773,Kade Nykaa,E-commerce,Ahmedabad,Tier1,1
+MER01774,Gulati Clinic,Healthcare,Nagpur,Tier2,1
+MER01775,Saraf Broadband,Utilities,Noida,Tier3,1
+MER01776,Kota Snapdeal,E-commerce,Kolkata,Tier1,1
+MER01777,Chaudhary Diagnostic Lab,Healthcare,Hyderabad,Tier1,0
+MER01778,Madan Policy Bazaar,Insurance,Ranchi,Tier2,1
+MER01779,Trivedi Clinic,Healthcare,Lucknow,Tier2,0
+MER01780,Wali Travel Agency,Travel,Chennai,Tier1,1
+MER01781,Manda Coaching Center,Education,Lucknow,Tier2,1
+MER01782,Aurora Metro Card,Auto & Transport,Coimbatore,Tier2,1
+MER01783,Aurora Broadband,Utilities,Patna,Tier2,1
+MER01784,Sani Metro Card,Auto & Transport,Rajkot,Tier3,1
+MER01785,Dass Meesho,E-commerce,Mumbai,Tier1,1
+MER01786,Bandi HP Petrol,Fuel,Jaipur,Tier2,1
+MER01787,Deep Tiffin Center,Food & Beverage,Bangalore,Tier1,1
+MER01788,Doctor Textile,Clothing & Fashion,Mumbai,Tier1,0
+MER01789,Chakrabarti Housing,Rent,Nagpur,Tier2,1
+MER01790,Mukherjee Cafe,Food & Beverage,Kanpur,Tier2,1
+MER01791,Pant Service Apartment,Hotel & Lodging,Agra,Tier2,1
+MER01792,Thaker HP Petrol,Fuel,Noida,Tier3,1
+MER01793,Jain Water Supply,Utilities,Patna,Tier2,1
+MER01794,Nadkarni Service Apartment,Hotel & Lodging,Varanasi,Tier3,1
+MER01795,Balakrishnan Kirana Store,Grocery,Bangalore,Tier1,1
+MER01796,Bhalla Stock Broker,Investment,Kolkata,Tier1,1
+MER01797,Wali Sweet Shop,Food & Beverage,Ranchi,Tier2,1
+MER01798,Seshadri Personal Transfer,P2P Transfer,Nashik,Tier2,1
+MER01799,Halder Gadget Shop,Electronics,Chandigarh,Tier3,1
+MER01800,Sodhi Ola,Auto & Transport,Mumbai,Tier1,1
+MER01801,Thaker Supermart,Grocery,Agra,Tier2,1
+MER01802,Maharaj Friend Transfer,P2P Transfer,Chennai,Tier1,1
+MER01803,Borah Gadget Shop,Electronics,Bhopal,Tier2,1
+MER01804,Bir Beauty Parlour,Salon & Wellness,Moradabad,Tier3,1
+MER01805,Rajagopalan Lodge,Hotel & Lodging,Nashik,Tier2,0
+MER01806,Joshi Mobile Store,Electronics,Rajkot,Tier3,0
+MER01807,Murthy LIC,Insurance,Lucknow,Tier2,0
+MER01808,Varty Biryani House,Food & Beverage,Agra,Tier2,1
+MER01809,Kaul Myntra,E-commerce,Tiruchirappalli,Tier3,1
+MER01810,Dixit Sweet Shop,Food & Beverage,Coimbatore,Tier2,1
+MER01811,Sheth Guest House,Hotel & Lodging,Pune,Tier1,1
+MER01812,Malhotra Salon,Salon & Wellness,Pune,Tier1,1
+MER01813,Kakar Cab Service,Travel,Faridabad,Tier3,1
+MER01814,Sankar SIP Payment,Investment,Chennai,Tier1,1
+MER01815,Tara General Store,Grocery,Coimbatore,Tier2,1
+MER01816,Bawa Meesho,E-commerce,Pune,Tier1,0
+MER01817,Kuruvilla Snapdeal,E-commerce,Mumbai,Tier1,0
+MER01818,Hans Dhaba,Food & Beverage,Guwahati,Tier3,1
+MER01819,De Sweet Shop,Food & Beverage,Pune,Tier1,1
+MER01820,Wagle Residency,Rent,Chennai,Tier1,1
+MER01821,Pingle Flipkart,E-commerce,Visakhapatnam,Tier2,1
+MER01822,Ramanathan Gadget Shop,Electronics,Faridabad,Tier3,1
+MER01823,Dua Hotel,Hotel & Lodging,Jaipur,Tier2,1
+MER01824,Parikh Friend Transfer,P2P Transfer,Pune,Tier1,1
+MER01825,Warrior Supermart,Grocery,Ahmedabad,Tier1,0
+MER01826,Vaidya Tiffin Center,Food & Beverage,Delhi,Tier1,1
+MER01827,Ramesh Textile,Clothing & Fashion,Coimbatore,Tier2,1
+MER01828,Naik Meesho,E-commerce,Bhopal,Tier2,1
+MER01829,Gole Nykaa,E-commerce,Chennai,Tier1,1
+MER01830,Narula Daily Needs,Grocery,Ahmedabad,Tier1,1
+MER01831,Bose Salon,Salon & Wellness,Coimbatore,Tier2,1
+MER01832,Ravel Restaurant,Food & Beverage,Amritsar,Tier3,1
+MER01833,Kaur Garments,Clothing & Fashion,Hyderabad,Tier1,1
+MER01834,Prashad Multiplex,Entertainment,Madurai,Tier2,0
+MER01835,Dixit Tiffin Center,Food & Beverage,Ranchi,Tier2,1
+MER01836,Salvi Gas Agency,Utilities,Bikaner,Tier3,1
+MER01837,Sem Myntra,E-commerce,Kolkata,Tier1,1
+MER01838,Chakrabarti Mutual Fund,Investment,Pune,Tier1,1
+MER01839,Mukhopadhyay Railway Booking,Travel,Visakhapatnam,Tier2,0
+MER01840,Vaidya Coaching Center,Education,Jaipur,Tier2,1
+MER01841,Nanda Realty,Rent,Mumbai,Tier1,1
+MER01842,Balasubramanian Inn,Hotel & Lodging,Jodhpur,Tier3,1
+MER01843,Walia Garments,Clothing & Fashion,Delhi,Tier1,1
+MER01844,Pandit Service Apartment,Hotel & Lodging,Ahmedabad,Tier1,1
+MER01845,Tara Garments,Clothing & Fashion,Bareilly,Tier3,0
+MER01846,Agate Juice Corner,Food & Beverage,Visakhapatnam,Tier2,1
+MER01847,Singhal Railway Booking,Travel,Ranchi,Tier2,1
+MER01848,Bal Flipkart,E-commerce,Delhi,Tier1,0
+MER01849,Narayan Airlines,Travel,Ranchi,Tier2,1
+MER01850,Vasa Wellness Center,Salon & Wellness,Meerut,Tier3,1
+MER01851,Kumar Hospital,Healthcare,Agra,Tier2,1
+MER01852,Batta Friend Transfer,P2P Transfer,Chandigarh,Tier3,0
+MER01853,Chowdhury Snapdeal,E-commerce,Chandigarh,Tier3,1
+MER01854,Rajan College,Education,Ahmedabad,Tier1,1
+MER01855,Rout Cab Service,Travel,Chennai,Tier1,1
+MER01856,Pall Broadband,Utilities,Kolkata,Tier1,1
+MER01857,Mital Electronics,Electronics,Jaipur,Tier2,1
+MER01858,Baral Hospital,Healthcare,Delhi,Tier1,1
+MER01859,Pillay Kirana Store,Grocery,Patna,Tier2,1
+MER01860,Buch Gaming Zone,Entertainment,Jaipur,Tier2,1
+MER01861,Raju Fuel Station,Fuel,Surat,Tier2,1
+MER01862,Chawla Uber,Auto & Transport,Indore,Tier2,1
+MER01863,Gandhi Event,Entertainment,Delhi,Tier1,1
+MER01864,Mital Cafe,Food & Beverage,Surat,Tier2,1
+MER01865,Varkey DTH Services,Utilities,Noida,Tier3,1
+MER01866,D’Alia Petrol Pump,Fuel,Lucknow,Tier2,0
+MER01867,Sibal OTT Platform,Entertainment,Visakhapatnam,Tier2,1
+MER01868,Raghavan Inn,Hotel & Lodging,Indore,Tier2,1
+MER01869,Gill Tuition,Education,Coimbatore,Tier2,1
+MER01870,Amble Travel Agency,Travel,Delhi,Tier1,1
+MER01871,Dash Electronics,Electronics,Nagpur,Tier2,1
+MER01872,Buch Sweet Shop,Food & Beverage,Pune,Tier1,1
+MER01873,Date BPCL Outlet,Fuel,Delhi,Tier1,1
+MER01874,Uppal Meesho,E-commerce,Jaipur,Tier2,1
+MER01875,Dube Academy,Education,Indore,Tier2,1
+MER01876,Singh Boutique,Clothing & Fashion,Jodhpur,Tier3,1
+MER01877,Sura Hotel,Hotel & Lodging,Noida,Tier3,1
+MER01878,Mani Myntra,E-commerce,Meerut,Tier3,1
+MER01879,Chaudhry Cab Service,Travel,Agra,Tier2,1
+MER01880,Sama Ola,Auto & Transport,Patna,Tier2,1
+MER01881,Kara Academy,Education,Patna,Tier2,1
+MER01882,Parmar Tiffin Center,Food & Beverage,Amritsar,Tier3,1
+MER01883,Baria Event,Entertainment,Jabalpur,Tier3,1
+MER01884,Bath Biryani House,Food & Beverage,Amritsar,Tier3,1
+MER01885,Mani Salon,Salon & Wellness,Chennai,Tier1,1
+MER01886,Shroff Airlines,Travel,Pune,Tier1,1
+MER01887,Wadhwa Insurance Co,Insurance,Coimbatore,Tier2,1
+MER01888,Sengupta Travel Agency,Travel,Bikaner,Tier3,1
+MER01889,Chopra General Store,Grocery,Nashik,Tier2,1
+MER01890,Prasad Railway Booking,Travel,Mumbai,Tier1,1
+MER01891,Dey Fresh Mart,Grocery,Kolkata,Tier1,1
+MER01892,Garg Cinema,Entertainment,Kolkata,Tier1,1
+MER01893,Nadig Clinic,Healthcare,Jaipur,Tier2,1
+MER01894,Sibal Gym,Salon & Wellness,Jabalpur,Tier3,1
+MER01895,Gole Guest House,Hotel & Lodging,Jaipur,Tier2,1
+MER01896,Chand Family Transfer,P2P Transfer,Patna,Tier2,1
+MER01897,Singhal Textile,Clothing & Fashion,Bareilly,Tier3,1
+MER01898,Subramanian Salon,Salon & Wellness,Allahabad,Tier3,1
+MER01899,Sha Electric Board,Utilities,Bangalore,Tier1,1
+MER01900,Nagi Restaurant,Food & Beverage,Visakhapatnam,Tier2,1
+MER01901,Dixit General Store,Grocery,Guwahati,Tier3,1
+MER01902,Chander Personal Transfer,P2P Transfer,Ahmedabad,Tier1,1
+MER01903,Tata Salon,Salon & Wellness,Lucknow,Tier2,1
+MER01904,Iyengar Myntra,E-commerce,Lucknow,Tier2,1
+MER01905,Gole BPCL Outlet,Fuel,Nashik,Tier2,1
+MER01906,Sawhney Service Apartment,Hotel & Lodging,Guwahati,Tier3,1
+MER01907,Uppal Kirana Store,Grocery,Pune,Tier1,1
+MER01908,Shenoy Fuel Station,Fuel,Kolkata,Tier1,1
+MER01909,Krishnamurthy Properties,Rent,Mumbai,Tier1,1
+MER01910,Mani Diagnostic Lab,Healthcare,Mumbai,Tier1,1
+MER01911,Swaminathan Daily Needs,Grocery,Bangalore,Tier1,0
+MER01912,Singh Readymade,Clothing & Fashion,Ranchi,Tier2,1
+MER01913,Modi Policy Bazaar,Insurance,Kolkata,Tier1,1
+MER01914,Tripathi Restaurant,Food & Beverage,Agra,Tier2,1
+MER01915,Bir Indian Oil,Fuel,Vadodara,Tier2,1
+MER01916,Grover Inn,Hotel & Lodging,Indore,Tier2,0
+MER01917,Dewan BPCL Outlet,Fuel,Nashik,Tier2,1
+MER01918,Bose Personal Transfer,P2P Transfer,Surat,Tier2,1
+MER01919,Bhasin Water Supply,Utilities,Pune,Tier1,1
+MER01920,Rajan Meesho,E-commerce,Nashik,Tier2,1
+MER01921,Kale Cinema,Entertainment,Varanasi,Tier3,1
+MER01922,Grover Pharmacy,Healthcare,Visakhapatnam,Tier2,1
+MER01923,Dhillon Sweet Shop,Food & Beverage,Coimbatore,Tier2,1
+MER01924,Choudhary Salon,Salon & Wellness,Surat,Tier2,1
+MER01925,Mane Tech Store,Electronics,Bhopal,Tier2,1
+MER01926,Halder Pharmacy,Healthcare,Ahmedabad,Tier1,1
+MER01927,Gopal Motor Insurance,Insurance,Mumbai,Tier1,0
+MER01928,Prashad Kirana Store,Grocery,Indore,Tier2,1
+MER01929,Chatterjee Properties,Rent,Jaipur,Tier2,1
+MER01930,Chand Supermart,Grocery,Kolkata,Tier1,1
+MER01931,Dhaliwal Sweet Shop,Food & Beverage,Jaipur,Tier2,1
+MER01932,Ben Zerodha,Investment,Moradabad,Tier3,1
+MER01933,Venkataraman Myntra,E-commerce,Guwahati,Tier3,1
+MER01934,Dhillon General Store,Grocery,Faridabad,Tier3,1
+MER01935,Bose Pharmacy,Healthcare,Surat,Tier2,1
+MER01936,Chaudhari Myntra,E-commerce,Ahmedabad,Tier1,1
+MER01937,Raju HP Petrol,Fuel,Bikaner,Tier3,0
+MER01938,Bajaj Snapdeal,E-commerce,Hyderabad,Tier1,1
+MER01939,Chaudhry Insurance Co,Insurance,Ranchi,Tier2,1
+MER01940,Merchant Snapdeal,E-commerce,Bhopal,Tier2,1
+MER01941,Varty Hospital,Healthcare,Bikaner,Tier3,1
+MER01942,More Sweet Shop,Food & Beverage,Indore,Tier2,1
+MER01943,Din Personal Transfer,P2P Transfer,Coimbatore,Tier2,1
+MER01944,Dube Tiffin Center,Food & Beverage,Ghaziabad,Tier3,1
+MER01945,Lalla Fashion Store,Clothing & Fashion,Delhi,Tier1,0
+MER01946,Shenoy Friend Transfer,P2P Transfer,Pune,Tier1,1
+MER01947,Kari Auto Rickshaw,Auto & Transport,Visakhapatnam,Tier2,1
+MER01948,Wadhwa Juice Corner,Food & Beverage,Bareilly,Tier3,0
+MER01949,Shenoy Biryani House,Food & Beverage,Kolkata,Tier1,1
+MER01950,Khatri Indian Oil,Fuel,Visakhapatnam,Tier2,1
+MER01951,Chaudhuri Mutual Fund,Investment,Pune,Tier1,1
+MER01952,Chander Diagnostic Lab,Healthcare,Chennai,Tier1,1
+MER01953,Salvi Kirana Store,Grocery,Surat,Tier2,1
+MER01954,Kuruvilla Snapdeal,E-commerce,Chennai,Tier1,1
+MER01955,Sule Amazon,E-commerce,Delhi,Tier1,1
+MER01956,Chand Insurance Co,Insurance,Kanpur,Tier2,1
+MER01957,Raghavan Uber,Auto & Transport,Madurai,Tier2,1
+MER01958,Gour Travel Agency,Travel,Amritsar,Tier3,1
+MER01959,Pradhan Beauty Parlour,Salon & Wellness,Rajkot,Tier3,1
+MER01960,Kamdar Flipkart,E-commerce,Vadodara,Tier2,1
+MER01961,Gaba Water Supply,Utilities,Kolkata,Tier1,1
+MER01962,Bhatia Electric Board,Utilities,Kolkata,Tier1,1
+MER01963,Deep Cab Service,Travel,Mumbai,Tier1,1
+MER01964,Bhatti Friend Transfer,P2P Transfer,Aligarh,Tier3,1
+MER01965,Kalita Readymade,Clothing & Fashion,Nagpur,Tier2,1
+MER01966,Rai Event,Entertainment,Hyderabad,Tier1,1
+MER01967,Kala DTH Services,Utilities,Jaipur,Tier2,1
+MER01968,Chacko Myntra,E-commerce,Nashik,Tier2,1
+MER01969,Parmar General Store,Grocery,Coimbatore,Tier2,1
+MER01970,Kakar Electric Board,Utilities,Hyderabad,Tier1,1
+MER01971,Mand Multiplex,Entertainment,Delhi,Tier1,1
+MER01972,Jaggi Stock Broker,Investment,Mumbai,Tier1,1
+MER01973,Pillay Appliances,Electronics,Delhi,Tier1,1
+MER01974,Mukhopadhyay Guest House,Hotel & Lodging,Pune,Tier1,1
+MER01975,Bhatia Myntra,E-commerce,Rajkot,Tier3,1
+MER01976,Bala Salon,Salon & Wellness,Mumbai,Tier1,1
+MER01977,Dhawan Amazon,E-commerce,Kanpur,Tier2,1
+MER01978,De Groww,Investment,Nagpur,Tier2,1
+MER01979,Menon Myntra,E-commerce,Kanpur,Tier2,1
+MER01980,Ravel Uber,Auto & Transport,Jabalpur,Tier3,1
+MER01981,Barad Broadband,Utilities,Coimbatore,Tier2,1
+MER01982,Pau OTT Platform,Entertainment,Madurai,Tier2,1
+MER01983,Mahajan Auto Rickshaw,Auto & Transport,Coimbatore,Tier2,1
+MER01984,Rao Residency,Rent,Bikaner,Tier3,1
+MER01985,Subramanian Restaurant,Food & Beverage,Chandigarh,Tier3,1
+MER01986,Buch Airlines,Travel,Kolkata,Tier1,1
+MER01987,Deo Garments,Clothing & Fashion,Pune,Tier1,1
+MER01988,Pant Amazon,E-commerce,Vadodara,Tier2,1
+MER01989,Hari Travel Agency,Travel,Delhi,Tier1,1
+MER01990,Purohit Spa,Salon & Wellness,Bhopal,Tier2,1
+MER01991,Chaudry Textile,Clothing & Fashion,Jabalpur,Tier3,1
+MER01992,Sangha Salon,Salon & Wellness,Guwahati,Tier3,1
+MER01993,Doctor Service Apartment,Hotel & Lodging,Mumbai,Tier1,1
+MER01994,Dhingra General Store,Grocery,Indore,Tier2,1
+MER01995,Mohanty Cab Service,Travel,Bhopal,Tier2,1
+MER01996,Ram Electric Board,Utilities,Madurai,Tier2,1
+MER01997,Divan Myntra,E-commerce,Lucknow,Tier2,1
+MER01998,Loyal Water Supply,Utilities,Mumbai,Tier1,1
+MER01999,D’Alia Dhaba,Food & Beverage,Nagpur,Tier2,1
+MER02000,Venkatesh Myntra,E-commerce,Mumbai,Tier1,1
