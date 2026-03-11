@@ -111,7 +111,7 @@ UPI-Payments-Behavioral-Intelligence/
 | Merchants | 2,000 | 6 | Merchant profiles by category and city |
 
 ### Date Range
-**January 2022 — December 2023** (24 months, 2 full years)
+**January 2022 - December 2023** (24 months, 2 full years)
 
 ### Key Metrics
 - **Total Transaction Value:** ₹149.86 Crore
